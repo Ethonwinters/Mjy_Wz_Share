@@ -22,3 +22,7 @@ HOVER https://github.com/NVlabs/HOVER
 
 AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System
 https://github.com/dexsuite/dex-retargeting
+
+
+2025/5/22    https://github.com/real-stanford/diffusion_policy   ---diffusion policy
+             https://github.com/YanjieZe/3D-Diffusion-Policy     ---diffusion policy 3D
