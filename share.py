@@ -53,3 +53,8 @@ mkdir -p data
 wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/train.tfrecord -P data
 wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/valid.tfrecord -P data
 wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/test.tfrecord  -P data
+
+conda create -n tfrecord python=3.7 -y
+conda activate tfrecord
+pip install "tensorflow<1.15"
+pip install numpy packaging
