@@ -1,28 +1,7 @@
-https://space.bilibili.com/484123810?spm_id_from=333.1391.0.0  松灵机器人
-https://www.bilibili.com/video/BV1nqWoejEvP/?spm_id_from=333.1387.favlist.content.click
-https://www.bilibili.com/video/BV1NAebePETu/?spm_id_from=333.1387.favlist.content.click
-https://www.bilibili.com/video/BV1ZaeAe7EMu/?spm_id_from=333.1387.favlist.content.click
+(meshgnnnn) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ conda list | grep pytorch
+pytorch                   2.4.1           cpu_generic_py310h994918d_5    conda-forge
+pytorch-cuda              12.1                 ha16c6d3_6    pytorch
+pytorch-mutex             1.0                        cuda    pytorch
+torchaudio                2.4.1               py310_cu121    pytorch
+torchvision               0.19.1              py310_cu121    pytorch
 
-TeleOperate
-https://github.com/OpenTeleVision/TeleVision   
-https://github.com/unitreerobotics/avp_teleoperate
-https://github.com/unitreerobotics  
-
-Stanford Mobile ALOHA
-https://github.com/MarkFzp/act-plus-plus  
-https://github.com/MarkFzp/mobile-aloha
-https://mobile-aloha.github.io/   Projiect Website
-
-Hugging face Lerobot
-https://github.com/huggingface/lerobot
-
-Humanoid
-Omnih2o and humanoid 2 humanoid https://github.com/LeCAR-Lab/human2humanoid
-HOVER https://github.com/NVlabs/HOVER
-
-AnyTeleop: A General Vision-Based Dexterous Robot Arm-Hand Teleoperation System
-https://github.com/dexsuite/dex-retargeting
-
-
-2025/5/22    https://github.com/real-stanford/diffusion_policy   ---diffusion policy
-             https://github.com/YanjieZe/3D-Diffusion-Policy     ---diffusion policy 3D
