@@ -46,3 +46,10 @@ Status Legend:
 
 aria2 will resume download if the transfer is restarted.
 If there are any errors, then see the log file. See '-l' option in help/man page for details.
+
+
+
+mkdir -p data
+wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/train.tfrecord -P data
+wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/valid.tfrecord -P data
+wget https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/test.tfrecord  -P data
