@@ -35,3 +35,42 @@ conda activate tfrecord
 pip install "tensorflow<1.15"
 pip install numpy packaging
 
+
+meshgnn) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ python train.py
+Simulator model initialized
+Optimizer initialized
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 29950/29950 [2:29:03<00:00,  3.35it/s]
+Epoch 1/100 Train Loss: 1.26e-01 Valid Loss: 3.73e-03
+-> New best model saved at epoch 1 with valid loss 3.73e-03
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 29950/29950 [2:23:40<00:00,  3.47it/s]
+Epoch 2/100 Train Loss: 4.56e-02 Valid Loss: 2.87e-03
+  -> New best model saved at epoch 2 with valid loss 2.87e-03
+  ..........
+
+(base) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ nvidia-smi
+Thu Dec 18 17:05:06 2025       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.154.05             Driver Version: 535.154.05   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA RTX 5880 Ada Gene...    Off | 00000000:52:00.0  On |                    0 |
+| 62%   81C    P2             271W / 285W |  23135MiB / 46068MiB |     94%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|    0   N/A  N/A      2831      G   /usr/lib/xorg/Xorg                          698MiB |
+|    0   N/A  N/A      2978      G   /usr/bin/gnome-shell                        143MiB |
+|    0   N/A  N/A      3170      G   ...in/bin/sunloginclient --cmd=autorun       13MiB |
+|    0   N/A  N/A      3367      G   ...) Chrome/58.0.3029.81 Safari/537.36        7MiB |
+|    0   N/A  N/A      3470      G   ...en=45586B388FD74A3ADD009CBA1BCBF6D3        6MiB |
+|    0   N/A  N/A      4330      G   ...irefox/6700/usr/lib/firefox/firefox      374MiB |
+|    0   N/A  N/A     37582      C   python                                    21708MiB |
+|    0   N/A  N/A     38064      G   /proc/self/exe                              143MiB |
