@@ -11,13 +11,11 @@ pip install torch-scatter \
 
 pip install torch-geometric
 
-python - << EOF
-import torch
-import torch_scatter
-import torch_geometric
 
-print("torch:", torch.__version__)
-print("cuda:", torch.version.cuda)
-print("scatter cuda:", torch_scatter.is_cuda_available())
-print("pyg version:", torch_geometric.__version__)
-EOF
+
+(meshgnn) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ aria2c -x 8 -s 8 https://storage.googleapis.com/dm-meshgraphnets/cylinder_flow/train.tfrecord -d data
+Command 'aria2c' not found, but can be installed with:
+sudo snap install aria2c  # version 1.35.0, or
+sudo apt  install aria2   # version 1.36.0-1
+See 'snap info aria2c' for additional versions.
+
