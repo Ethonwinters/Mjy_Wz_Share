@@ -36,29 +36,37 @@ pip install "tensorflow<1.15"
 pip install numpy packaging
 
 (tfrecord) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ python parse_tfrecord.py
-Traceback (most recent call last):
-  File "parse_tfrecord.py", line 8, in <module>
-    import tensorflow as tf
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/__init__.py", line 28, in <module>
-    from tensorflow.python import pywrap_tensorflow  # pylint: disable=unused-import
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/__init__.py", line 52, in <module>
-    from tensorflow.core.framework.graph_pb2 import *
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/core/framework/graph_pb2.py", line 16, in <module>
-    from tensorflow.core.framework import node_def_pb2 as tensorflow_dot_core_dot_framework_dot_node__def__pb2
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/core/framework/node_def_pb2.py", line 16, in <module>
-    from tensorflow.core.framework import attr_value_pb2 as tensorflow_dot_core_dot_framework_dot_attr__value__pb2
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/core/framework/attr_value_pb2.py", line 16, in <module>
-    from tensorflow.core.framework import tensor_pb2 as tensorflow_dot_core_dot_framework_dot_tensor__pb2
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/core/framework/tensor_pb2.py", line 16, in <module>
-    from tensorflow.core.framework import resource_handle_pb2 as tensorflow_dot_core_dot_framework_dot_resource__handle__pb2
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/core/framework/resource_handle_pb2.py", line 42, in <module>
-    serialized_options=None, file=DESCRIPTOR),
-  File "/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/google/protobuf/descriptor.py", line 561, in __new__
-    _message.Message._CheckCalledFromGeneratedFile()
-TypeError: Descriptors cannot not be created directly.
-If this call came from a _pb2.py file, your generated code is out of date and must be regenerated with protoc >= 3.19.0.
-If you cannot immediately regenerate your protos, some other possible workarounds are:
- 1. Downgrade the protobuf package to 3.20.x or lower.
- 2. Set PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python (but this will use pure-Python parsing and will be much slower).
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/home/adminstrator/miniforge3/envs/tfrecord/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From parse_tfrecord.py:57: The name tf.enable_resource_variables is deprecated. Please use tf.compat.v1.enable_resource_variables instead.
 
-More information: https://developers.google.com/protocol-buffers/docs/news/2022-05-06#python-updates
+WARNING:tensorflow:From parse_tfrecord.py:58: The name tf.enable_eager_execution is deprecated. Please use tf.compat.v1.enable_eager_execution instead.
+
+Traceback (most recent call last):
+  File "parse_tfrecord.py", line 61, in <module>
+    ds = load_dataset(tf_datasetPath, split)
+  File "parse_tfrecord.py", line 45, in load_dataset
+    with open(os.path.join(path, 'meta.json'), 'r') as fp:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/meta.json'
