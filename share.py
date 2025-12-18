@@ -19,3 +19,5 @@ sudo snap install aria2c  # version 1.35.0, or
 sudo apt  install aria2   # version 1.36.0-1
 See 'snap info aria2c' for additional versions.
 
+(meshgnn) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/GNN/meshGraphNets_pytorch$ sudo apt install aria2 -y
+E: dpkg was interrupted, you must manually run 'sudo dpkg --configure -a' to correct the problem. 
