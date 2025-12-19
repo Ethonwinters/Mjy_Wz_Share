@@ -22,3 +22,9 @@ Status Legend:
 
 aria2 will resume download if the transfer is restarted.
 If there are any errors, then see the log file. See '-l' option in help/man page for details.
+
+
+unset all_proxy
+unset ALL_PROXY
+unset http_proxy
+unset https_proxy
