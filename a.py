@@ -28,3 +28,26 @@ unset all_proxy
 unset ALL_PROXY
 unset http_proxy
 unset https_proxy
+
+
+import numpy as np
+
+node_type = data['node_type'][0, :, 0]
+mesh_pos = data['mesh_pos'][0]
+
+for t in range(7):
+    idx = np.where(node_type == t)[0]
+    print(t, len(idx))
+
+
+
+import matplotlib.pyplot as plt
+
+for t in range(7):
+    idx = np.where(node_type == t)[0]
+    if len(idx) > 0:
+        plt.scatter(mesh_pos[idx,0], mesh_pos[idx,1], s=2, label=str(t))
+
+plt.legend()
+plt.axis("equal")
+plt.show()
