@@ -3,12 +3,19 @@
 12.1                                                                                                                                                                                                                                                                                                                                                                                                                             
 True    
 
-(rectflow) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/Rectified_Flow/RectifiedFlow/ImageGeneration$ pip install jax==0.3.4 jaxlib==0.3.2
-Collecting jax==0.3.4
-  Downloading jax-0.3.4.tar.gz (924 kB)
-     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 925.0/925.0 kB 3.2 MB/s eta 0:00:00
-  Preparing metadata (setup.py) ... done
-ERROR: Ignored the following versions that require a different python version: 0.10.0 Requires-Python >=3.11; 0.4.14 Requires-Python >=3.9; 0.4.15 Requires-Python >=3.9; 0.4.16 Requires-Python >=3.9; 0.4.17 Requires-Python >=3.9; 0.4.18 Requires-Python >=3.9; 0.4.19 Requires-Python >=3.9; 0.4.20 Requires-Python >=3.9; 0.4.21 Requires-Python >=3.9; 0.4.22 Requires-Python >=3.9; 0.4.23 Requires-Python >=3.9; 0.4.24 Requires-Python >=3.9; 0.4.25 Requires-Python >=3.9; 0.4.26 Requires-Python >=3.9; 0.4.27 Requires-Python >=3.9; 0.4.28 Requires-Python >=3.9; 0.4.29 Requires-Python >=3.9; 0.4.30 Requires-Python >=3.9; 0.4.31 Requires-Python >=3.10; 0.4.32 Requires-Python >=3.10; 0.4.33 Requires-Python >=3.10; 0.4.34 Requires-Python >=3.10; 0.4.35 Requires-Python >=3.10; 0.4.36 Requires-Python >=3.10; 0.4.37 Requires-Python >=3.10; 0.4.38 Requires-Python >=3.10; 0.5.0 Requires-Python >=3.10; 0.5.1 Requires-Python >=3.10; 0.5.2 Requires-Python >=3.10; 0.5.3 Requires-Python >=3.10; 0.6.0 Requires-Python >=3.10; 0.6.1 Requires-Python >=3.10; 0.6.2 Requires-Python >=3.10; 0.7.0 Requires-Python >=3.11; 0.7.1 Requires-Python >=3.11; 0.7.2 Requires-Python >=3.11; 0.8.0 Requires-Python >=3.11; 0.8.1 Requires-Python >=3.11; 0.8.2 Requires-Python >=3.11; 0.8.3 Requires-Python >=3.11; 0.9.0 Requires-Python >=3.11; 0.9.0.1 Requires-Python >=3.11; 0.9.1 Requires-Python >=3.11; 0.9.2 Requires-Python >=3.11
-ERROR: Could not find a version that satisfies the requirement jaxlib==0.3.2 (from versions: none)
-ERROR: No matching distribution found for jaxlib==0.3.2
+# 1. 创建一个名为 rectified_flow 的全新 conda 环境
+# 推荐使用 Python 3.10，它目前在深度学习生态中兼容性最佳
+conda create -n rectified_flow python=3.10 -y
+
+# 2. 激活刚刚创建的环境
+conda activate rectified_flow
+
+# 3. 安装 PyTorch、TorchVision 及其 CUDA 依赖（强烈建议使用 GPU 运行）
+# 注意：这里以目前最常用的 CUDA 12.1 版本为例。
+# 如果你的显卡/驱动较老，需要 CUDA 11.8，请将下面的 pytorch-cuda=12.1 改为 pytorch-cuda=11.8
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia -y
+
+# 4. 通过 pip 安装核心库以及 Trainer 依赖的 accelerate
+# (pip 通常会自动帮你把 einops 等 lucidrains 常用底层依赖一起装好)
+pip install rectified-flow-pytorch accelerate
 
