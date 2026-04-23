@@ -25,3 +25,9 @@ pip install rectified-flow-pytorch accelerate
 /home/adminstrator/miniforge3/envs/rectified_flow_1/lib/python3.10/site-packages/torch/cuda/__init__.py:180: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:119.)
   return torch._C._cuda_getDeviceCount() > 0
 False
+
+
+(rectified_flow_2) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/rectified-flow-pytorch$ pip install rectified-flow-pytorch
+找不到命令 “pip”，但可以通过以下软件包安装它：
+sudo apt install python3-pip
+
