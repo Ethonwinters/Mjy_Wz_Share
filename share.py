@@ -28,7 +28,13 @@ False
 
 
 
-(rectified_flow_2) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/rectified-flow-pytorch$ pip install rectified-flow-pytorch
-找不到命令 “pip”，但可以通过以下软件包安装它：
-sudo apt install python3-pip
+# 创建数据文件夹
+mkdir -p data/flowers
 
+# 下载牛津花卉数据集的图片压缩包
+wget https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz
+
+# 解压到指定文件夹
+tar -xzf 102flowers.tgz -C data/flowers
+
+# 此时，你的图片会存放在 ./data/flowers/jpg 路径下
