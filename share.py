@@ -38,3 +38,7 @@ wget https://www.robots.ox.ac.uk/~vgg/data/flowers/102/102flowers.tgz
 tar -xzf 102flowers.tgz -C data/flowers
 
 # 此时，你的图片会存放在 ./data/flowers/jpg 路径下
+
+pip uninstall torch torchvision torchaudio -y
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --no-cache-dir
+python -c "import torch; print(torch.__version__); print(torch.version.cuda); print(torch.cuda.is_available())"
