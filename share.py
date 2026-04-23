@@ -42,3 +42,14 @@ tar -xzf 102flowers.tgz -C data/flowers
 pip uninstall torch torchvision torchaudio -y
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --no-cache-dir
 python -c "import torch; print(torch.__version__); print(torch.version.cuda); print(torch.cuda.is_available())"
+
+
+
+No module named 'torchdiffeq'
+  File "/home/adminstrator/rectified-flow-pytorch/rectified_flow_pytorch/rectified_flow.py", line 15, in <module>
+    from torchdiffeq import odeint
+  File "/home/adminstrator/rectified-flow-pytorch/rectified_flow_pytorch/__init__.py", line 1, in <module>
+    from rectified_flow_pytorch.rectified_flow import (
+  File "/home/adminstrator/rectified-flow-pytorch/train.py", line 2, in <module>
+    from rectified_flow_pytorch import RectifiedFlow, Reflow, Unet
+ModuleNotFoundError: No module named 'torchdiffeq'
