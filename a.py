@@ -72,51 +72,188 @@ PY
 如果这里 cuda available: True，环境主体就对了。
 ###################################################################################################################################################################################################################
 ###################################################################################################################################################################################################################
+27、解题思路：文章第一段通过描述人们在医疗、财务和职业等重要领域面临决策时感受到压力（stressed and anxious）的状态，指出我们所有人有时都必须在压力下权衡信息。这种普遍面临的困难处境对应了选项C中的“challenge”，作者以此引出全文关于压力如何影响判断的讨论。
+
+对应文章：第1段整段。
+
+避坑：不要误选B选项。虽然段末提出了一个问题，但作者并没有质疑某个“广泛持有的假设”，而是通过提问来引导读者思考。同时，选项D提到的“最焦虑的情况”在文中并未界定，文中只是列举了多种压力场景。
+解析反馈
+28、解题思路：题干询问第二段关于消防员（firefighters）的内容。文中描述了消防员工作状态的剧烈波动，从清闲的日常维护到高压的紧急救援。作者指出，这种“起伏（ups and downs）”为观察压力如何改变信息处理能力提供了“完美的实验环境（perfect setting）”。这直接对应了选项A，
+即消防员工作压力的定期变化（regular changes）使其成为理想的研究对象（ideal study subject）。
+
+对应文章：第2段：These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure.
+
+避坑：注意不要过度推断。虽然文中提到了消防员的工作内容，但并没有说他们的工作是公共服务行业的“典型代表”（选项C），也没有讨论他们的“性格特征”（选项D），重点在于其工作环境对科学实验的价值。
+解析反馈
+29、解题思路：题干问第4段写了什么。在第四段中，作者详细列举了与消防员（firefighters）进行实验的具体步骤：要求受试者估算概率、提供正面或负面信息反馈、再次要求估算。这种对实验过程、步骤和手段的详细记录，在学术写作中属于对“研究方法（methodology）”的描述，故选D。
+
+避坑：区分“过程”与“结论”。很多考生会误选A（解释发现），但实际上第四段只讲了“怎么做”，而实验得出的“结论”（即压力下人们对坏消息更敏感）是在第五段才开始解释的。
+解析反馈
+30、解题思路：第七段解释了大脑中的一种生理机制。当压力发生时（stressful events），该机制会被触发（is triggered/switch），促使我们关注警告并留意可能出错的地方。文中的“neural signal boost”和“unexpected warning signs”对应了选项C中的“heightened sensitivity”和
+“indications of external threats”，即增强了对外部威胁信号的敏感度。因此选C。
+
+对应文章：第7段整段。
+
+避坑：避开选项A的干扰。虽然该机制与压力有关，但文中强调的是对信息的“处理和关注（take in warnings）”，而非反应的“速度（more quickly）”。另外，选项D中的“communicate”意为交流传递，而文中讨论的是大脑内部的接收和处理机制。
+
+31、解题思路：由firefighters和relaxed定位到文中第5段，可知对应的内容应是optimistic和ignore bad news、embrace the good，对应B选项“took relatively little notice of bad news。
+
+对应文章：第5段：People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed;
+
+避坑：考生需要准确区分“放松”和“压力”两种对比状态下的不同反应。在放松状态下，人类天生的“乐观偏见”占据主导，因此会下意识地过滤掉负面预测，不要将其与压力状态下对坏消息的警觉反应混淆。
+解析反馈
+32、解题思路：紧接着上一题文中定位处即有under stress的情况，这时firefighters会became hyper-vigilant to bad news, even when...，对应G选项“认为更可能遭遇坏情况”。
+
+对应文章：第5段：but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response.
+
+避坑：理解“hyper-vigilant”是解题的关键。它不仅指注意力集中，更隐含了对风险评估的调整。压力作为一种触发机制，使大脑从乐观模式切换到了风险防范模式，从而提高了对负面事件发生概率的预期。
+解析反馈
+33、解题思路：紧接着上一题文中定位处即有good news，可知此时stress didn’t change，对应F选项。
+
+对应文章：第5段：In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).
+
+避坑：本题的陷阱在于考生可能会主观推测压力会全方位改变人的认知。但文章强调了这种变化的“选择性”：压力只特异性地增强了对负面信息的吸收，而对正面信息的处理逻辑则保持原样，这种不对称性是实验的核心发现之一。
+解析反馈
+34、解题思路：第6段开始提到对学生的实验。可知当学生突然被告知要做公共讲话时(即处于stressful situation)，他们的cortisol levels spiked, their heart rates went up，对应选项E。
+
+对应文章：第6段：in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up ...
+
+避坑：解题时应聚焦于“被告知要演讲”这一瞬间触发的即时反应。虽然文章随后提到了他们处理信息能力的提升，但那是生理反应带来的结果。题干询问的是状态描述，因此最直接、最准确的对应点是文中描述的生理变化。
+解析反馈
+35、解题思路：答案解析：以firefighters和students为实验对象的两个实验在第3到第7段有陈述、分析、和总结，尤其在第6段首句指明是the same pattern，可知都是处于压力时对负面信息处理得更好，选D。
+对应文章：第3、4、5、6、7段。
+
+避坑：本题要求对两个实验对象进行横向总结。考生需要识别出文中“bad news”、“alarming information”与选项中“negative information”的同义替换关系。同时要理解文章的主旨：压力是一种进化而来的机制，旨在提高个体在危险环境中处理威胁信息效率。
+
+36、解题思路：根据题干中的关键词 social media 和 feeds 定位到文章第九段最后两句。文中明确指出，如果我们看到社交媒体上的积极动态（如粉色日落的图片），就更有可能发布令人振奋的信息；反之，如果看到负面帖子（如抱怨排长队），则会相应地产生更多负面内容。这说明我们发布内容的基调反映了 
+feeds 内容的性质，与题干描述完全一致，故判定为 YES。
+
+对应文章：第9段：Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in 
+turn create more negative posts.
+
+避坑：在做此类题目时，要注意文中提到的“positive feeds”和“negative posts”与题干中“nature of the posts”的对应关系。不要被具体的例子（如日落或排队）干扰，而要抓住其背后的逻辑规律，即社交媒体上情绪和内容的传染性。只要文中逻辑方向与题干一致，即可判定为 YES。
+解析反馈
+37、解题思路：利用关键词 phones 定位到文章第十段第二句。该句提到根据美国心理学会的一项调查，频繁查看手机与压力有关。然而，纵观全文，作者仅讨论了手机使用与压力的相关性，并未将手机对压力水平的影响与其他电子媒体设备（如平板电脑、电脑或电视等）进行对比，也没有提到手机的影响是否“更大”。
+由于文中缺失横向比较的信息，判定为 NOT GIVEN。
+
+对应文章：第10段：Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress.
+
+避坑：这是典型的“无中生有”型题目。考生容易根据生活常识认为手机确实比其他设备使用频率更高、带来的压力更大，从而先入为主地误选 YES。在雅思阅读中，必须严格遵循原文，文中缺失横向比较的信息，因此只能判定为 NOT GIVEN。
+解析反馈
+38、解题思路：根据题干 stressful public event 定位至第十一段。文中指出，在经历此类压力事件后，个人会变得“非常关注”（become very aware of）媒体上的警示信息，且压力会暂时“增加”（enhances）人们吸收负面报告的可能性。这与题干中“越读越无法吸收信息”（less able to take the information in）
+的描述完全相反，故判断为 NO。
+
+避坑：注意理解文中“take in”和“become aware of”的含义，它们都指向“获取/吸收信息”。题干设置了反向逻辑，将文中的“增强吸收能力”改成了“减弱吸收能力”。考生需要准确识别文中描述的压力反馈机制，即压力反而会让人对负面警示信息变得更加敏感而非迟钝。
+解析反馈
+39、解题思路：定位到第11段末尾。文中描述了一个恶性循环：压力在人与人之间传播，增强了人们吸收负面信息的可能性，进而导致人们做出过度反应。文章给出了具体例子：即使灾难发生在地球另一端也会取消行程，或者在应该持有时卖出股票。这些在客观上并非必须、甚至有损利益的行为，正对应了题干中的“不必
+要的预防措施”（unnecessary precautions），信息一致，故答案为YES。
+
+对应文章：第11段：After a stressful public event, ... ... And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. 
+As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do.
+
+避坑：本题的难点在于对“unnecessary precautions”的同义替换理解。文中虽然没有直接出现这个词组，但通过“即使灾难在远方也取消行程”和“本该持有却卖出股票”这两个例子，暗示了这些行为是基于恐惧而非理性做出的过度防范。考生需要具备从具体案例中归纳抽象概念的能力。
+解析反馈
+40、解题思路：定位到文章最后一段。作者在结尾处给出了积极的观点，指出积极情绪（如希望）同样具有传染性，并且能强有力地诱导人们采取行动寻找解决方案。末段首句提到的 positive emotions 会引诱人们采取行动找到解决方法，正对应了题干中“他人的情绪可被积极运用”的描述。最后一句进一步提到，
+意识到情绪状态与信息处理之间的紧密关系，可以帮助我们更有效地传达信息，成为积极的改变者。这证实了这种“受他人情绪影响”的心理倾向确实可以被正面、积极地利用，信息一致，故答案为YES。
+
+对应文章：末段：The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions.
+
+避坑：考生可能会受前文大量关于压力、焦虑和负面影响的描述所误导，认为这种情绪传染倾向全是坏处。但雅思阅读文章往往在结尾处进行观点升华。看到“The good news”和“positive emotions”等词汇时，应敏锐察觉到作者论述方向的转变，从而准确匹配题干中的“positive way”。
+###################################################################################################################################################################################################################
+###################################################################################################################################################################################################################
 How stress affects our judgement
 
-1Some of the most important decisions of our lives occur while we're feeling stressed and anxious. From medical decisions to financial and professional ones, we are all sometimes required to 
-weigh up information under stressful conditions. But do we become better or worse at processing and using information under such circumstances?
+压力如何影响我们的判断
 
-2My colleague and I, both neuroscientists, wanted to investigate how the mind operates under stress, so we visited some local fire stations. Firefighters' workdays vary quite a bit. Some are pretty relaxed;
-they'll spend their time washing the truck, cleaning equipment, cooking meals and reading. Other days can be hectic, with numerous life-threatening incidents to attend to; they'll enter burning homes to rescue 
-trapped residents, and assist with medical emergencies. These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure.
+「Q27」 Some of the most important decisions of our lives occur while we're feeling stressed and anxious. From medical decisions to financial and professional ones, we are all sometimes 
+required to (weigh up) information under stressful conditions.
+But do we become better or worse at processing and using information under such circumstances?
+我们生命中的一些最重要的决定往往是在感到压力和焦虑时作出的。在从就医到财务和职场的种种决策中，我们每个人通常都需要在承受压力的情况下权衡信息。然而在这样的场景下，我们处理和利用信息的能力是变好还是变差了呢？
 
-3We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters - but only as long as it conveyed bad news.
+My colleague and I, both neuroscientists, wanted to investigate how the mind operates under stress, so we visited some local fire stations. Firefighters' workdays (vary quite a bit). Some are 
+pretty relaxed; they'll spend their time washing the (truck), cleaning equipment, cooking meals and reading. Other days can be (hectic), with numerous life-threatening (incidents) to attend to(处理); 
+they'll enter burning homes to rescue trapped residents, and assist with medical emergencies. 「Q28」 These ups and downs presented the perfect setting(n 环境，场景) for an experiment on how people's 
+ability to use information changes when they feel under pressure.
+我和我的同事都是神经科学家，我俩打算研究大脑如何在压力下运转，于是走访了几个本地消防站。消防员的工作日可以存在相当大的不同。一些日子是非常放松的；他们的时间花在清洗卡车、清洁设备、做做饭和读读书上。
+另一些日子则可能十分繁忙，有无数威胁生命的事件需要处理；他们会进入熊熊燃烧的住家去拯救困住的居民，并协助紧急就医。这些忙闲时刻的剧烈波动提供了做实验的理想场景，可以展现出人们在感受到压力时运用信息的能力如何发生变化。
 
-4This is how we arrived at these results. We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events in their life, such as being involved in an accident or becoming a victim 
-of card fraud. We then gave them either good news (that their likelihood of experiencing these events was lower than they'd thought) or bad news (that it was higher) and asked them to provide new estimates.
+「Q35」 We found that (perceived) threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters - but only as long as it (conveyed) bad news.
+我们发现，对威胁的感知触发了一种压力反应，使得加工处理信息的任务对于消防员来说更容易了——但这仅仅是在坏消息传来的时候。
 
-5[31]People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under 
-these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs 
-in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).
+「Q35」 This is how we arrived at these results. 「Q29」 We asked the firefighters to estimate their likelihood of experiencing 40 different (adverse) events in their life, such as being 
+involved in an accident or becoming (a victim of card fraud). 
+We then gave them either good news (that their likelihood of experiencing these events was lower than they'd thought) or bad news (that it was higher) and asked them to provide new estimates.
+我们是这样得出结论的。先让消防员预估一下他们在生活中遭遇40件不同恶性事件的几率，例如被卷入一场事故或成为银行卡欺诈事件的受害者。接下来再告诉他们好消息（他们遭遇这些事件的几率要低于他们所想的那样）
+或坏消息（几率更高），然后让他们重新进行估计。
 
-6Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, 
-their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence.
+「Q35」 「Q31」 People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; 
+「Q32」 but when they were under stress, a different pattern emerged. Under these conditions, 
+they became hyper-(vigilant) to bad news, even when it had nothing to do with their job (such as learning得知 that the likelihood 可能性 of card fraud was higher than they'd thought), 
+and altered their beliefs in response. 
+「Q33」 In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).
+人们通常都是相当乐观的——他们会忽略坏消息而拥抱好消息。当消防员处于放松状态时就是这样；但当他们置身压力下，一种不同的反应模式就出现了。在这些压力状态下，他们会对坏消息高度警觉，
+即使这与他们的工作毫无关系（例如得知银行卡欺诈案件的发生几率比他们以为的要高），
+而且会相应改变自己的想法。相较之下，压力并不会改变他们对好消息（例如得知银行卡欺诈的几率比自己以为的低）作出的反应。
 
-7When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what might go wrong. Brain imaging reveals that this 'switch' is related to a sudden boost in a 
-neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear.
+「Q35」 Back in our lab, we observed the same pattern 「Q34」 in students who were told they had to give a surprise public speech, which would be judged by a panel, 
+recorded and posted online. Sure enough 果然，不出所料 , their cortisol levels spiked, their heart rates
+went up and they suddenly became better at processing unrelated, yet alarming令人担忧的，令人恐惧的, information about rates of disease and violence.
+回到实验室场景下，我们在一群学生身上看到了相同的模式，他们被告知要临时准备一场公开演讲，且还会被一个专家组进行评判、录像并发表在网上。理所当然地，他们的(皮质醇水平飙升)、心率急剧加速，
+突然就变得更善于处理一些虽然不相关但令人惊慌的关于疾病和暴力几率的消息了。
 
-8Such neural engineering could have helped prehistoric humans to survive. When our ancestors found themselves surrounded by hungry animals, they would have benefited from an increased ability to learn about hazards. 
+「Q35」 「Q30」 When we experience stressful events, a physiological生理的 change is triggered that causes us to take in warnings and focus on what might go wrong. Brain imaging 
+reveals that this 'switch' is related to a sudden boost in a neural signal important 
+for learning, specifically in response to unexpected warning signs, such as faces expressing fear.
+当我们体验着压力事件时，一项生理变化就被触发了，这使得我们充分接收警报并聚焦在可能出问题的方面。脑成像显示：这种"切换"关联的是一种神经信号的激增，其对于学习行为至关重要，特别是在面对突发性警示信号如看到人们面露惊恐之时。
+
+Such neural engineering could have helped prehistoric humans to survive. When our ancestors found themselves surrounded by hungry animals, they would have benefited from 
+an increased ability to learn about hazards. 
 In a safe environment, however, it would have been wasteful to be on high alert constantly. So, a neural switch that automatically increases or decreases our ability to process warnings in response to changes in our 
-environment could have been useful. In fact, people with clinical depression and anxiety seem unable to switch away from a state in which they absorb all the negative messages around them.
+environment could have been useful. 
+In fact, people with clinical depression and anxiety seem unable to switch away from a state in which they absorb all the negative messages around them.
 
-9It is also important to realise that stress travels rapidly from one person to the next. If a co-worker is stressed, we are more likely to tense up and feel stressed ourselves. We don't even need to be in the same 
-room with someone for their emotions to influence our behaviour. Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. 
+这样的神经机制当初能帮助史前人类生存。当我们的祖先发现自己被饥饿野兽环伺时，如果辨识危险的能力有所提升当然就会受益。然而，在一个安全的环境中，如果总是处于预警状态就消耗太大了。因此，
+拥有一个自动提升或降低我们在应对环境变化时处理警示信号的能力，会是很有用的。事实上，
+那些确诊了抑郁和焦虑的人似乎无法调节关闭这种能力，因而时刻都在吸收周遭的所有负面信息。
+
+It is also important to realise that stress travels rapidly from one person to the next. If a co-worker is stressed, we are more likely to tense up and feel stressed ourselves.
+We don't even need to be in the same room with someone for their emotions to influence our behaviour. 
+「Q36」 Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting 令人振奋的；使人开心的 messages ourselves.
 If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in turn create more negative posts.
+意识到这样一点也很重要：压力能迅速从一个人传导到另一个人身上。如果一个同事正在承受重压，我们自己也更容易紧张起来、感受到压力。我们甚至都不需要与某个人共处一室，他们的情绪就有可能影响到我们的行为
+研究表明，如果我们在社交媒体上看到了积极消息，例如一场粉色落日的画面，
+我们自己也有可能会发表更令人振奋的消息。如果我们看到了消极信息，例如抱怨在一家咖啡馆排了很长的队，那么我们自己也将随之发表更负面的言论。
 
-10In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. Repeatedly checking your phone, 
-according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid 
-famished predators, is now being triggered by an online post. Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities.
+In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. 
+「Q37」 Repeatedly checking your phone, according to a survey conducted by the 
+American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished 
+predators, is now being triggered by an online post. Social media posting, according
+to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities.
 
-11The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear that is not always justified. 
-After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But 
-that has the effect of exaggerating existing danger. And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will
-take in negative reports, which increases stress further. As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do.
+在某些方面，我们中的很多人现在活得就好像as if身处危险之中，时刻做好准备要应对棘手的邮件和短信，还要回应社交媒体上的消息提醒和评论。根据美国心理协会所做的一项调查，频繁查看手机的行为就与压力有关。换句话说，
+这项预设在我们身体里的生理反应，原本是进化赋予我们以协助躲避饥肠辘辘猎食者的装备
+，如今正在被线上消息所持续触发。根据一项研究，社交媒体上的各种信息比大多数日常活动都更能加速你的脉搏、引发你的出汗和放大你的瞳孔。
 
-12The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions. Being aware of the close relationship between people's emotional 
-state and how they process information can help us frame our messages more effectively and become conscientious agents of change.
+The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear 
+that is not always justified. 「Q38」 After a stressful public event, such as a 
+natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But that has the 
+effect of exaggerating existing danger. 「Q39」 And so, a reliable pattern emerges 
+- stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. 
+As a result, trips are cancelled, even if the disaster took place across the globe; 
+stocks are sold, even when holding on is the best thing to do.
+压力会增加我们更关注警示类信息的可能性，并且它的传播速度极快，这二者结合起来可能会制造出并不总是正当合理的集体性恐慌。在一场高压公共事件——例如一场自然灾害或大规模金融崩盘——之后，传统媒体和社交媒体
+上往往都会出现一波令人担忧的消息，而人们也会变得更加关注这些消息。
+但这种现象的效果往往是夸大了实际风险。于是，一条八九不离十的事态发展路径出现了——压力被触发，从一个人传到下一个人，暂时性地增加了人们更关注消极负面报导的可能性，这又进一步提升了压力值。结果就是，
+出行计划被取消，哪怕这场灾难其实发生在地球的那一头；股票被抛售，哪怕持仓才是最明智的做法。
+
+「Q40」 The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions. Being aware of the close
+relationship between people's emotional state and how they process information can help us 
+frame our messages more effectively and become conscientious agents of change.
+
+不过，好消息是：积极情绪（例如希望）也是有感染力的，而且能强有力地促使人们行动起来找到解决方案。明白在人们的情绪状态和处理信息方式这二者之间存在紧密关联，就能帮助我们更有效率地框定自己接收
+到的各种信息，成为积极应对变化的行为主体。
 #############################################################################################
-27In the first paragraph, the writer introduces the topic of the text by  D   C
+27In the first paragraph, the writer introduces the topic of the text by   C
  defining some commonly used terms.
  questioning a widely held assumption.
  mentioning a challenge faced by everyone.
@@ -128,13 +265,13 @@ state and how they process information can help us frame our messages more effec
  The stressful nature of their job is typical of many public service professions.
  Their personalities make them especially well-suited to working under stress
  #############################################################################################
-29What is the writer doing in the fourth paragraph?  B   D
+29What is the writer doing in the fourth paragraph?  D
  explaining their findings
  justifying their approach
  setting out their objectives
  describing their methodology
  #############################################################################################
-30In the seventh paragraph, the writer describes a mechanism in the brain which  B  C
+30In the seventh paragraph, the writer describes a mechanism in the brain which  C
  enables people to respond more quickly to stressful situations.
  results in increased ability to control our levels of anxiety.
  produces heightened sensitivity to indications of external threats.
@@ -195,7 +332,7 @@ G. thought it more likely that they would experience something bad.
 cd ~
 git clone https://github.com/NVIDIA/physicsnemo-curator.git
 cd ~/physicsnemo-curator
-pip install "physicsnemo-curator[mesh,loky]"
+pip install "physicsnemo-curator[mesh,loky]"  
 下载小样本先测试：
 cd~ / physicinenemo
 cd ~
