@@ -45,18 +45,8 @@ python -c "import torch; print(torch.__version__); print(torch.version.cuda); pr
 
 
 
-Exception has occurred: TypeError
-randn() received an invalid combination of arguments - got (tuple, device=method), but expected one of:
- * (tuple of ints size, *, torch.Generator generator, tuple of names names, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, torch.Generator generator, Tensor out = None, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, Tensor out = None, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, tuple of names names, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
-  File "/home/adminstrator/rectified-flow-pytorch/rectified_flow_pytorch/reflow.py", line 62, in forward
-    noise = torch.randn((self.batch_size, *self.data_shape), device = self.device)
-  File "/home/adminstrator/rectified-flow-pytorch/train.py", line 17, in <module>
-    reflow_loss = reflow()
-TypeError: randn() received an invalid combination of arguments - got (tuple, device=method), but expected one of:
- * (tuple of ints size, *, torch.Generator generator, tuple of names names, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, torch.Generator generator, Tensor out = None, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, Tensor out = None, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
- * (tuple of ints size, *, tuple of names names, torch.dtype dtype = None, torch.layout layout = None, torch.device device = None, bool pin_memory = False, bool requires_grad = False)
+conda create -n physicsnemo python=3.11 -y
+conda activate physicsnemo
+
+python -m pip install --upgrade pip setuptools wheel
+pip install "nvidia-physicsnemo[cu12,nn-extras]"
