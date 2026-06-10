@@ -45,8 +45,8 @@ python -c "import torch; print(torch.__version__); print(torch.version.cuda); pr
 
 
 
-conda create -n physicsnemo python=3.11 -y
-conda activate physicsnemo
+conda create -n physicsnemo_1 python=3.11 -y
+conda activate physicsnemo_1
 
 python -m pip install --upgrade pip setuptools wheel
 pip install "nvidia-physicsnemo[cu12,nn-extras]"
@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 如果 transformer_engine[pytorch] 安装失败，可以单独试：
 
-pip install --extra-index-url https://pypi.nvidia.com "transformer_engine[pytorch]"
+pip install --extra-index-url https://pypi.nvidia.com "transformer_engine[pytorch]==2.3.0"
 
 然后验证：
 
@@ -364,68 +364,56 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 如果这一步能跑出 loss，就说明 GeoTransolver 的环境、数据和 GPU 都已经打通了。
 
 
-
-Downloading torchinfo-1.8.0-py3-none-any.whl (23 kB)
-Downloading transformer_engine-2.16.0-py3-none-any.whl (912 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 912.4/912.4 kB 3.2 MB/s  0:00:00
-Downloading transformer_engine_cu13-2.16.0-py3-none-manylinux_2_28_x86_64.whl (189.7 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 189.7/189.7 MB 1.6 MB/s  0:01:21
-Downloading tensorstore-0.1.84-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (21.0 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 21.0/21.0 MB 2.2 MB/s  0:00:09
-Downloading zarr-3.1.6-py3-none-any.whl (295 kB)
-Downloading absl_py-2.4.0-py3-none-any.whl (135 kB)
-Downloading donfig-0.8.1.post1-py3-none-any.whl (21 kB)
-Downloading google_crc32c-1.8.0-cp311-cp311-manylinux1_x86_64.manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_5_x86_64.whl (33 kB)
-Downloading grpcio-1.81.0-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (6.8 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.8/6.8 MB 2.7 MB/s  0:00:02
-Downloading markdown-3.10.2-py3-none-any.whl (108 kB)
-Downloading numcodecs-0.16.5-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl (9.1 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.1/9.1 MB 2.5 MB/s  0:00:03
-Downloading nvdlfw_inspect-0.2.2-py3-none-any.whl (30 kB)
-Downloading onnxscript-0.7.0-py3-none-any.whl (714 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 714.8/714.8 kB 2.0 MB/s  0:00:00
-Downloading onnx_ir-0.2.1-py3-none-any.whl (166 kB)
-Building wheels for collected packages: transformer_engine_torch
-  Building wheel for transformer_engine_torch (pyproject.toml) ... error
+(physicsnemo_1) adminstrator@adminstrator-HP-Z8-G5-Workstation-Desktop-PC:~/physicsnemo/examples/cfd/external_aerodynamics/transformer_models$ pip install --extra-index-url https://pypi.nvidia.com "transformer_engine[pytorch]==2.3.0"
+Looking in indexes: https://pypi.org/simple, https://pypi.nvidia.com
+Collecting transformer_engine==2.3.0 (from transformer_engine[pytorch]==2.3.0)
+  Downloading transformer_engine-2.3.0-py3-none-any.whl (486 kB)
+Collecting transformer_engine_cu12==2.3.0 (from transformer_engine==2.3.0->transformer_engine[pytorch]==2.3.0)
+  Downloading transformer_engine_cu12-2.3.0-py3-none-manylinux_2_28_x86_64.whl (266.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 266.4/266.4 MB 5.0 MB/s  0:00:51
+Requirement already satisfied: pydantic in /home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages (from transformer_engine_cu12==2.3.0->transformer_engine==2.3.0->transformer_engine[pytorch]==2.3.0) (2.13.4)
+Requirement already satisfied: importlib-metadata>=1.0 in /home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages (from transformer_engine_cu12==2.3.0->transformer_engine==2.3.0->transformer_engine[pytorch]==2.3.0) (9.0.0)
+Requirement already satisfied: packaging in /home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages (from transformer_engine_cu12==2.3.0->transformer_engine==2.3.0->transformer_engine[pytorch]==2.3.0) (26.0)
+Collecting transformer_engine_torch==2.3.0 (from transformer_engine[pytorch]==2.3.0)
+  Downloading transformer_engine_torch-2.3.0.tar.gz (165 kB)
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... error
   error: subprocess-exited-with-error
   
-  × Building wheel for transformer_engine_torch (pyproject.toml) did not run successfully.
+  × Getting requirements to build wheel did not run successfully.
   │ exit code: 1
-  ╰─> [28 lines of output]
-      /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/setuptools/_vendor/wheel/bdist_wheel.py:4: FutureWarning: The 'wheel' package is no longer the canonical location of the 'bdist_wheel' command, and will be removed in a future release. Please update to setuptools v70.1 or later which contains an integrated version of this command.
-        warn(
-      /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/_subclasses/functional_tensor.py:362: UserWarning: Failed to initialize NumPy: No module named 'numpy' (Triggered internally at /pytorch/torch/csrc/utils/tensor_numpy.cpp:84.)
-        cpu = _conversion_method_template(device=torch.device("cpu"))
-      /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/cuda/__init__.py:187: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:119.)
-        return torch._C._cuda_getDeviceCount() > 0
-      W0610 14:05:53.584000 18284 torch/utils/cpp_extension.py:140] No CUDA runtime is found, using CUDA_HOME='/usr/local/cuda'
-      /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/setuptools/_distutils/dist.py:287: UserWarning: Unknown distribution option: 'tests_require'
-        warnings.warn(msg)
-      running bdist_wheel
-      W0610 14:05:54.191000 18284 torch/utils/cpp_extension.py:680] Attempted to use ninja as the BuildExtension backend but we could not find ninja.. Falling back to using the slow distutils backend.
-      Guessing wheel URL:  https://github.com/NVIDIA/TransformerEngine/releases/download/v2.16.0/transformer_engine_torch-2.16.0+cu13torch2.12.0+cu130cxx11abiTRUE-cp311-cp311-linux_x86_64.whl
-      Precompiled wheel not found. Building from source...
-      running build
-      running build_ext
-      building 'transformer_engine_torch' extension
-      creating build/temp.linux-x86_64-cpython-311/csrc
-      creating build/temp.linux-x86_64-cpython-311/csrc/extensions
-      creating build/temp.linux-x86_64-cpython-311/csrc/extensions/multi_tensor
-      g++ -pthread -B /home/adminstrator/miniforge3/envs/physicsnemo/compiler_compat -DNDEBUG -fwrapv -O2 -Wall -fPIC -O2 -isystem /home/adminstrator/miniforge3/envs/physicsnemo/include -fPIC -O2 -isystem /home/adminstrator/miniforge3/envs/physicsnemo/include -fPIC -I/usr/local/cuda/include -I/tmp/pip-install-t0rhrxc1/transformer-engine-torch_0f8fa9ec1076463b8979a933cf9f5f60/common_headers -I/tmp/pip-install-t0rhrxc1/transformer-engine-torch_0f8fa9ec1076463b8979a933cf9f5f60/common_headers/common -I/tmp/pip-install-t0rhrxc1/transformer-engine-torch_0f8fa9ec1076463b8979a933cf9f5f60/common_headers/common/include -I/tmp/pip-install-t0rhrxc1/transformer-engine-torch_0f8fa9ec1076463b8979a933cf9f5f60/csrc -I/tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/include -I/tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/include/torch/csrc/api/include -I/home/adminstrator/miniforge3/envs/physicsnemo/include/python3.11 -c csrc/common.cpp -o build/temp.linux-x86_64-cpython-311/csrc/common.o -O3 -fvisibility=hidden -g0 -DTORCH_API_INCLUDE_EXTENSION_H -DTORCH_EXTENSION_NAME=transformer_engine_torch -std=c++20
-      In file included from /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/include/ATen/cudnn/Handle.h:5,
-                       from csrc/common.h:14,
-                       from csrc/common.cpp:7:
-      /tmp/pip-build-env-a_xhrjbw/overlay/lib/python3.11/site-packages/torch/include/ATen/cudnn/cudnn-wrapper.h:4:10: fatal error: cudnn.h: 没有那个文件或目录
-          4 | #include <cudnn.h>
-            |          ^~~~~~~~~
-      compilation terminated.
-      error: command '/usr/bin/g++' failed with exit code 1
+  ╰─> [26 lines of output]
+      Traceback (most recent call last):
+        File "<string>", line 17, in <module>
+      ModuleNotFoundError: No module named 'torch'
+      
+      The above exception was the direct cause of the following exception:
+      
+      Traceback (most recent call last):
+        File "/home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 389, in <module>
+          main()
+        File "/home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 373, in main
+          json_out["return_val"] = hook(**hook_input["kwargs"])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "/home/adminstrator/miniforge3/envs/physicsnemo_1/lib/python3.11/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py", line 143, in get_requires_for_build_wheel
+          return hook(config_settings)
+                 ^^^^^^^^^^^^^^^^^^^^^
+        File "/tmp/pip-build-env-k4d18br1/overlay/lib/python3.11/site-packages/setuptools/build_meta.py", line 333, in get_requires_for_build_wheel
+          return self._get_build_requires(config_settings, requirements=[])
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        File "/tmp/pip-build-env-k4d18br1/overlay/lib/python3.11/site-packages/setuptools/build_meta.py", line 301, in _get_build_requires
+          self.run_setup()
+        File "/tmp/pip-build-env-k4d18br1/overlay/lib/python3.11/site-packages/setuptools/build_meta.py", line 520, in run_setup
+          super().run_setup(setup_script=setup_script)
+        File "/tmp/pip-build-env-k4d18br1/overlay/lib/python3.11/site-packages/setuptools/build_meta.py", line 317, in run_setup
+          exec(code, locals())
+        File "<string>", line 19, in <module>
+      RuntimeError: This package needs Torch to build.
       [end of output]
   
   note: This error originates from a subprocess, and is likely not a problem with pip.
-  ERROR: Failed building wheel for transformer_engine_torch
-Failed to build transformer_engine_torch
-error: failed-wheel-build-for-install
+ERROR: Failed to build 'transformer_engine_torch' when getting requirements to build wheel
+
 
 × Failed to build installable wheels for some pyproject.toml based projects
 ╰─> transformer_engine_torch
