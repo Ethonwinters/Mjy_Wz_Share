@@ -27,7 +27,27 @@ pip install rectified-flow-pytorch accelerate
 False
 The table shows statistics about the amount of pupulation and compares the change of five districts population proportion in NewYork City over a period of 200 years.  
 The tables show statistics about the total population and compare changes in the population proportions of five districts in New York City over a period of 200 years
+The provided tables illustrate the growth of New York City’s total population alongside a comparative breakdown of population proportions across five distinct districts between 1800 and 2000.
 
+It's clear that the populaiton increase rate is extremely fast for nearly two hundred years, the number of citizens in New York from 79216 in 1800 increase to 8009185 in 2000.
+Furthermore, the distribution of residents in different districts also occur remarkably change
+
+It is clear that New York's population grew at an extremely rapid rate over the two-century period, with the number of citizens increasing from 79,216 in 1800 to 8,009,185 in 2000. 
+Furthermore, the distribution of residents across different districts also underwent a remarkable change.
+
+Overall, New York City experienced an exponential population explosion over the nearly two hundred years, as the total number of residents skyrocketed from just under 80,000 to over 8 million. 
+Furthermore, the demographic distribution across the various districts underwent a profound transformation.
+
+In 1800, fewer than 80,000 citizens lived in New York. By 1900, the population had increased more than forty-fold, reaching 3,437,202. By 2000, New York's population size had grown by over 4,500,000 compared to the 1900 figure.
+
+In 1800, the population of New York stood at just under 80,000. Over the subsequent century, this figure witnessed an astonishing forty-fold surge, skyrocketing to 3,437,202 by 1900. 
+This upward trajectory persisted into 2000, by which time the city's population had expanded by a further 4.5 million.
+
+
+Regarding the individual districts, Manhattan held a dominant position in 1800, housing 76% of the city’s population (60,515 residents), while the other four districts combined accounted for only 24% (18,701).
+By 1900, although Manhattan's population grew significantly to 1,850,093, its share dropped to 54%. In stark contrast, the collective population of the other districts rose to 1,587,109, capturing 46% of the total. 
+By 2000, a dramatic reversal occurred as Manhattan's population declined to 1,538,096, with its proportion plummeting to just 19%. 
+Conversely, the other districts experienced a massive explosion to 6,471,089, commanding a staggering 81% of the total.
 # 创建数据文件夹
 mkdir -p data/flowers 
 
