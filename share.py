@@ -28,6 +28,10 @@ False
 
 over a period of 200 years
 just under 略低于
+the growth of 
+total population 
+a comparative breakdown of population proportions
+
 
 The provided tables illustrate the growth of New York City’s total population alongside a comparative breakdown of population proportions across five distinct districts between 1800 and 2000.
 
@@ -35,7 +39,8 @@ It is clear that New York's population grew at an extremely rapid rate over near
 Overall, New York City experienced an exponential population explosion over nearly two hundred years, as the total number of residents skyrocketed from just under 80,000 to over 8 million. 
 Furthermore, the demographic distribution across the various districts underwent a remarkable change.
 
-In 1800, fewer than 80,000 citizens lived in New York. By 1900, the population had increased more than forty-fold, reaching 3,437,202. 
+In 1800, fewer than 80,000 citizens lived in New York. 
+By 1900, the population had increased more than forty-fold, reaching 3,437,202. 
 By 2000, New York's population size had grown by over 4,500,000 compared to the 1900 figure.
 
 In 1800, the population of New York stood at just under 80,000. Over the subsequent century, this figure witnessed an astonishing forty-fold surge, skyrocketing to 3,437,202 by 1900. 
@@ -46,6 +51,7 @@ By 1900, although Manhattan's population grew significantly to 1,850,093, its sh
 By 2000, a dramatic reversal occurred as Manhattan's population declined to 1,538,096, with its proportion plummeting to just 19%. 
 Conversely, the other districts experienced a massive explosion to 6,471,089, commanding a staggering 81% of the total.
 
+  
 # 创建数据文件夹
 mkdir -p data/flowers 
 
