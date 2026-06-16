@@ -72,94 +72,6 @@ PY
 如果这里 cuda available: True，环境主体就对了。
 ###################################################################################################################################################################################################################
 ###################################################################################################################################################################################################################
-27、解题思路：文章第一段通过描述人们在医疗、财务和职业等重要领域面临决策时感受到压力（stressed and anxious）的状态，指出我们所有人有时都必须在压力下权衡信息。这种普遍面临的困难处境对应了选项C中的“challenge”，作者以此引出全文关于压力如何影响判断的讨论。
-
-对应文章：第1段整段。
-
-避坑：不要误选B选项。虽然段末提出了一个问题，但作者并没有质疑某个“广泛持有的假设”，而是通过提问来引导读者思考。同时，选项D提到的“最焦虑的情况”在文中并未界定，文中只是列举了多种压力场景。
-解析反馈
-28、解题思路：题干询问第二段关于消防员（firefighters）的内容。文中描述了消防员工作状态的剧烈波动，从清闲的日常维护到高压的紧急救援。作者指出，这种“起伏（ups and downs）”为观察压力如何改变信息处理能力提供了“完美的实验环境（perfect setting）”。这直接对应了选项A，
-即消防员工作压力的定期变化（regular changes）使其成为理想的研究对象（ideal study subject）。
-
-对应文章：第2段：These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure.
-
-避坑：注意不要过度推断。虽然文中提到了消防员的工作内容，但并没有说他们的工作是公共服务行业的“典型代表”（选项C），也没有讨论他们的“性格特征”（选项D），重点在于其工作环境对科学实验的价值。
-解析反馈
-29、解题思路：题干问第4段写了什么。在第四段中，作者详细列举了与消防员（firefighters）进行实验的具体步骤：要求受试者估算概率、提供正面或负面信息反馈、再次要求估算。这种对实验过程、步骤和手段的详细记录，在学术写作中属于对“研究方法（methodology）”的描述，故选D。
-
-避坑：区分“过程”与“结论”。很多考生会误选A（解释发现），但实际上第四段只讲了“怎么做”，而实验得出的“结论”（即压力下人们对坏消息更敏感）是在第五段才开始解释的。
-解析反馈
-30、解题思路：第七段解释了大脑中的一种生理机制。当压力发生时（stressful events），该机制会被触发（is triggered/switch），促使我们关注警告并留意可能出错的地方。文中的“neural signal boost”和“unexpected warning signs”对应了选项C中的“heightened sensitivity”和
-“indications of external threats”，即增强了对外部威胁信号的敏感度。因此选C。
-
-对应文章：第7段整段。
-
-避坑：避开选项A的干扰。虽然该机制与压力有关，但文中强调的是对信息的“处理和关注（take in warnings）”，而非反应的“速度（more quickly）”。另外，选项D中的“communicate”意为交流传递，而文中讨论的是大脑内部的接收和处理机制。
-
-31、解题思路：由firefighters和relaxed定位到文中第5段，可知对应的内容应是optimistic和ignore bad news、embrace the good，对应B选项“took relatively little notice of bad news。
-
-对应文章：第5段：People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed;
-
-避坑：考生需要准确区分“放松”和“压力”两种对比状态下的不同反应。在放松状态下，人类天生的“乐观偏见”占据主导，因此会下意识地过滤掉负面预测，不要将其与压力状态下对坏消息的警觉反应混淆。
-解析反馈
-32、解题思路：紧接着上一题文中定位处即有under stress的情况，这时firefighters会became hyper-vigilant to bad news, even when...，对应G选项“认为更可能遭遇坏情况”。
-
-对应文章：第5段：but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response.
-
-避坑：理解“hyper-vigilant”是解题的关键。它不仅指注意力集中，更隐含了对风险评估的调整。压力作为一种触发机制，使大脑从乐观模式切换到了风险防范模式，从而提高了对负面事件发生概率的预期。
-解析反馈
-33、解题思路：紧接着上一题文中定位处即有good news，可知此时stress didn’t change，对应F选项。
-
-对应文章：第5段：In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).
-
-避坑：本题的陷阱在于考生可能会主观推测压力会全方位改变人的认知。但文章强调了这种变化的“选择性”：压力只特异性地增强了对负面信息的吸收，而对正面信息的处理逻辑则保持原样，这种不对称性是实验的核心发现之一。
-解析反馈
-34、解题思路：第6段开始提到对学生的实验。可知当学生突然被告知要做公共讲话时(即处于stressful situation)，他们的cortisol levels spiked, their heart rates went up，对应选项E。
-
-对应文章：第6段：in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up ...
-
-避坑：解题时应聚焦于“被告知要演讲”这一瞬间触发的即时反应。虽然文章随后提到了他们处理信息能力的提升，但那是生理反应带来的结果。题干询问的是状态描述，因此最直接、最准确的对应点是文中描述的生理变化。
-解析反馈
-35、解题思路：答案解析：以firefighters和students为实验对象的两个实验在第3到第7段有陈述、分析、和总结，尤其在第6段首句指明是the same pattern，可知都是处于压力时对负面信息处理得更好，选D。
-对应文章：第3、4、5、6、7段。
-
-避坑：本题要求对两个实验对象进行横向总结。考生需要识别出文中“bad news”、“alarming information”与选项中“negative information”的同义替换关系。同时要理解文章的主旨：压力是一种进化而来的机制，旨在提高个体在危险环境中处理威胁信息效率。
-
-36、解题思路：根据题干中的关键词 social media 和 feeds 定位到文章第九段最后两句。文中明确指出，如果我们看到社交媒体上的积极动态（如粉色日落的图片），就更有可能发布令人振奋的信息；反之，如果看到负面帖子（如抱怨排长队），则会相应地产生更多负面内容。这说明我们发布内容的基调反映了 
-feeds 内容的性质，与题干描述完全一致，故判定为 YES。
-
-对应文章：第9段：Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in 
-turn create more negative posts.
-
-避坑：在做此类题目时，要注意文中提到的“positive feeds”和“negative posts”与题干中“nature of the posts”的对应关系。不要被具体的例子（如日落或排队）干扰，而要抓住其背后的逻辑规律，即社交媒体上情绪和内容的传染性。只要文中逻辑方向与题干一致，即可判定为 YES。
-解析反馈
-37、解题思路：利用关键词 phones 定位到文章第十段第二句。该句提到根据美国心理学会的一项调查，频繁查看手机与压力有关。然而，纵观全文，作者仅讨论了手机使用与压力的相关性，并未将手机对压力水平的影响与其他电子媒体设备（如平板电脑、电脑或电视等）进行对比，也没有提到手机的影响是否“更大”。
-由于文中缺失横向比较的信息，判定为 NOT GIVEN。
-
-对应文章：第10段：Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress.
-
-避坑：这是典型的“无中生有”型题目。考生容易根据生活常识认为手机确实比其他设备使用频率更高、带来的压力更大，从而先入为主地误选 YES。在雅思阅读中，必须严格遵循原文，文中缺失横向比较的信息，因此只能判定为 NOT GIVEN。
-解析反馈
-38、解题思路：根据题干 stressful public event 定位至第十一段。文中指出，在经历此类压力事件后，个人会变得“非常关注”（become very aware of）媒体上的警示信息，且压力会暂时“增加”（enhances）人们吸收负面报告的可能性。这与题干中“越读越无法吸收信息”（less able to take the information in）
-的描述完全相反，故判断为 NO。
-
-避坑：注意理解文中“take in”和“become aware of”的含义，它们都指向“获取/吸收信息”。题干设置了反向逻辑，将文中的“增强吸收能力”改成了“减弱吸收能力”。考生需要准确识别文中描述的压力反馈机制，即压力反而会让人对负面警示信息变得更加敏感而非迟钝。
-解析反馈
-39、解题思路：定位到第11段末尾。文中描述了一个恶性循环：压力在人与人之间传播，增强了人们吸收负面信息的可能性，进而导致人们做出过度反应。文章给出了具体例子：即使灾难发生在地球另一端也会取消行程，或者在应该持有时卖出股票。这些在客观上并非必须、甚至有损利益的行为，正对应了题干中的“不必
-要的预防措施”（unnecessary precautions），信息一致，故答案为YES。
-
-对应文章：第11段：After a stressful public event, ... ... And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. 
-As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do.
-
-避坑：本题的难点在于对“unnecessary precautions”的同义替换理解。文中虽然没有直接出现这个词组，但通过“即使灾难在远方也取消行程”和“本该持有却卖出股票”这两个例子，暗示了这些行为是基于恐惧而非理性做出的过度防范。考生需要具备从具体案例中归纳抽象概念的能力。
-解析反馈
-40、解题思路：定位到文章最后一段。作者在结尾处给出了积极的观点，指出积极情绪（如希望）同样具有传染性，并且能强有力地诱导人们采取行动寻找解决方案。末段首句提到的 positive emotions 会引诱人们采取行动找到解决方法，正对应了题干中“他人的情绪可被积极运用”的描述。最后一句进一步提到，
-意识到情绪状态与信息处理之间的紧密关系，可以帮助我们更有效地传达信息，成为积极的改变者。这证实了这种“受他人情绪影响”的心理倾向确实可以被正面、积极地利用，信息一致，故答案为YES。
-
-对应文章：末段：The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions.
-
-避坑：考生可能会受前文大量关于压力、焦虑和负面影响的描述所误导，认为这种情绪传染倾向全是坏处。但雅思阅读文章往往在结尾处进行观点升华。看到“The good news”和“positive emotions”等词汇时，应敏锐察觉到作者论述方向的转变，从而准确匹配题干中的“positive way”。
-###################################################################################################################################################################################################################
 ###################################################################################################################################################################################################################
 How stress affects our judgement
 
@@ -188,7 +100,7 @@ We then gave them either good news (that their likelihood of experiencing these 
 
 「Q35」 「Q31」 People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; 
 「Q32」 but when they were under stress, a different pattern emerged. Under these conditions, 
-they became hyper-(vigilant) to bad news, even when it had nothing to do with their job (such as learning得知 that the likelihood 可能性 of card fraud was higher than they'd thought), 
+they became hyper-(vigilant) to bad news, even when it had nothing to do这无关紧要 with their job (such as learning得知 that the likelihood 可能性 of card fraud was higher than they'd thought), 
 and altered their beliefs in response. 
 「Q33」 In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).
 人们通常都是相当乐观的——他们会忽略坏消息而拥抱好消息。当消防员处于放松状态时就是这样；但当他们置身压力下，一种不同的反应模式就出现了。在这些压力状态下，他们会对坏消息高度警觉，
@@ -225,30 +137,27 @@ If we observe negative posts, such as complaints about a long queue at the coffe
 我们自己也有可能会发表更令人振奋的消息。如果我们看到了消极信息，例如抱怨在一家咖啡馆排了很长的队，那么我们自己也将随之发表更负面的言论。
 
 In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. 
-「Q37」 Repeatedly checking your phone, according to a survey conducted by the 
-American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished 
-predators, is now being triggered by an online post. Social media posting, according
-to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities.
+「Q37」 Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, 
+which evolution has equipped us with to help us avoid famished predators, is now being triggered by an online post. 
+Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities.
 
 在某些方面，我们中的很多人现在活得就好像as if身处危险之中，时刻做好准备要应对棘手的邮件和短信，还要回应社交媒体上的消息提醒和评论。根据美国心理协会所做的一项调查，频繁查看手机的行为就与压力有关。换句话说，
 这项预设在我们身体里的生理反应，原本是进化赋予我们以协助躲避饥肠辘辘猎食者的装备
 ，如今正在被线上消息所持续触发。根据一项研究，社交媒体上的各种信息比大多数日常活动都更能加速你的脉搏、引发你的出汗和放大你的瞳孔。
 
 The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear 
-that is not always justified. 「Q38」 After a stressful public event, such as a 
-natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But that has the 
-effect of exaggerating existing danger. 「Q39」 And so, a reliable pattern emerges 
-- stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. 
-As a result, trips are cancelled, even if the disaster took place across the globe; 
-stocks are sold, even when holding on is the best thing to do.
+that is not always justified. 
+「Q38」 After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. 
+But that has the effect of exaggerating existing danger.
+「Q39」 And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. 
+As a result, trips are cancelled, even if the disaster took place across the globe;  stocks are sold, even when holding on is the best thing to do.
 压力会增加我们更关注警示类信息的可能性，并且它的传播速度极快，这二者结合起来可能会制造出并不总是正当合理的集体性恐慌。在一场高压公共事件——例如一场自然灾害或大规模金融崩盘——之后，传统媒体和社交媒体
 上往往都会出现一波令人担忧的消息，而人们也会变得更加关注这些消息。
-但这种现象的效果往往是夸大了实际风险。于是，一条八九不离十的事态发展路径出现了——压力被触发，从一个人传到下一个人，暂时性地增加了人们更关注消极负面报导的可能性，这又进一步提升了压力值。结果就是，
+但这种现象的效果往往是夸大了实际风险。于是，一个固定的模式出现了—压力被触发，从一个人传到下一个人，暂时性地增加了人们更关注消极负面报导的可能性，这又进一步提升了压力值。结果就是，
 出行计划被取消，哪怕这场灾难其实发生在地球的那一头；股票被抛售，哪怕持仓才是最明智的做法。
 
-「Q40」 The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions. Being aware of the close
-relationship between people's emotional state and how they process information can help us 
-frame our messages more effectively and become conscientious agents of change.
+「Q40」 The good news, however, is that positive emotions, such as hope, are contagious 有感染力的too, and are powerful in inducing people to act to find solutions. Being aware of the close
+relationship between people's emotional state and how they process information can help us frame our messages more effectively and become conscientious agents of change.
 
 不过，好消息是：积极情绪（例如希望）也是有感染力的，而且能强有力地促使人们行动起来找到解决方案。明白在人们的情绪状态和处理信息方式这二者之间存在紧密关联，就能帮助我们更有效率地框定自己接收
 到的各种信息，成为积极应对变化的行为主体。
@@ -728,7 +637,7 @@ I've just thought of another idea.
 Have you been to The Audley?
 「37」
 No, don't think I've heard of it. How's it spelt?
-「38」
+「38」  
 A-U-D-L-E-Y. You must have heard of it - there's been a lot about it in the press.
 「39」
 l don't tend to pay much attention to that kind of thing. So where is it exactly?
@@ -770,18 +679,9 @@ It's not the kind of place you leave feeling hungry though, is it? With tiny por
 No, the reviews I've read didn't mention that. l imagine they'd be average.
 「58」
 Well, that's all great, thanks.
+
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
-git clone https://github.com/NVIDIA/physicsnemo.git
-cd physicsnemo
-uv sync --extra cu13
-uv run python -c "import physicsnemo; print('PhysicsNeMo version:', physicsnemo.__version__)"
-docker run --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --runtime nvidia \
---rm -it nvcr.io/nvidia/physicsnemo/physicsnemo:25.06 bash
-git clone https://github.com/NVIDIA/physicsnemo.git
-cd physicsnemo/examples/cfd/darcy_fno/
-pip install warp-lang # install NVIDIA Warp to run the Darcy example
-python train_fno_darcy.py
 Access to clean water is a basic human right. Therefore every home should have a water supply that is provided free of charge. Do you agree or disagree?
 
 
@@ -891,13 +791,49 @@ Leveraging these additional profits, companies can develop more attractive produ
 In conclusion, I firmly assert that global fashion trends will continue to influence people's clothing choices and promote economic growth and cultural communication around the world.
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
-git clone https://github.com/NVIDIA/physicsnemo.git
-cd physicsnemo
-uv sync --extra cu13
-uv run python -c "import physicsnemo; print('PhysicsNeMo version:', physicsnemo.__version__)"
-docker run --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --runtime nvidia \
---rm -it nvcr.io/nvidia/physicsnemo/physicsnemo:25.06 bash
-git clone https://github.com/NVIDIA/physicsnemo.git
-cd physicsnemo/examples/cfd/darcy_fno/
-pip install warp-lang # install NVIDIA Warp to run the Darcy example
-python train_fno_darcy.py
+
+Some people think that competition at work, at school and in daily life is a good thing. Others believe that we should try to cooperate more, rather than competing against each other.
+
+Discuss both these views and give your own opinion.
+
+Competition or cooperation, which (is) more important and desirable for individual life is (a) constant topic, as (everyone) has (different) perspectives.
+In my view, the person who is more (better) at cooperating with others always has (a) more comfortable and wonderful life.
+In my view, a strong capacity for cooperation is far more conducive to an individual’s lifelong advancement
+
+
+(Admittedly), (competitiveness/a competitive spirit) is an indispensable (characteristic) throughout (the various stages of life).
+First and foremost, the vast majority of motivation behind people's determination to confront challenges or achieve excellence originates from interpersonal rivalry
+For example, (whether in school or at work), competing with (peers) or colleagues would stimulate (individuals) (to) (invest) more time and energy (in their) professional (pursuits), (thereby) enabling (them to) acquire better performance or superior achievement.
+Furthermore, life (includes) a number of competitive situations we must face, (such as) job interviews or promotion defenses, and only by being equipped with a certain sense of competition can (one) handle these (formidable challenges) successfully.
+[Furthermore, we must face many competitive situations in life, such as job interviews or promotion reviews. A certain sense of competition can help us handle these formidable challenges successfully]
+Finally, competition can inspire people to maintain the spirit of (exploring) new things. Without this competitive drive, individuals may find everything uninteresting and boring.
+motivation 不可数名词 the vast majority of... 绝大多数
+如果是虚拟性假设（纯粹假设）：if someone gave up..., they would feel...（建议用这种，更符合学术论证的严谨度）。
+
+However, from a more (broader) perspective, the value of cooperation (in adulthood) is evident, (as) team collaboration skills are much more (advantageous) than a competitive determination to win.
+To some extent, competition can (yield certain benefits) to our (lives), while the most intricate problems (can only be) solved through cooperation. 
+For example, (during college) there are many complicated academic problems (that need to be faced), and (relying) on individual effort is far from enough, which (can only be) (resolved) by seeking advice from (seniors) or holding a brainstorming session with classmates. 
+动词原形绝对不能直接做主语。 Protecting the environment is urgent./ Mastering a foreign skill takes time./Competing with peers burns people out.
+In the workplace, adults are expected to work in teams, (whether) following instructions given by their superiors, or (supervising) and (supporting) the more junior members of staff.
+
+Furthermore, an overly competitive mindset is by no means an unalloyed good, as beyond a certain threshold, it can become counterproductive.
+Individuals who lose the ability to cooperate will suffer a large number of setbacks and obstacles in life, which will gradually consume their self-confidence.
+amount of 后面只能接【不可数名词】
+
+In conclusion, while I can understand why some people view a competitive spirit as beneficial, I firmly believe that cooperation can lead to a smoother and more fulfilling life.
+
+motivations（单复数不当）：在探讨抽象的心理驱动力时，motivation 通常作为不可数名词使用，不需要加 s。
+is originated from（语法红牌）：Originate 是一个不及物动词，它没有被动语态！所以绝对不能写成 is originated，必须用主动语态：originates from。
+either the school life or during work（语意不平行）：either... or... 连接的两个成分在语法结构上必须完全对称。你前面放了一个名词短语（the school life），后面放了一个介词短语（during work），读起来非常别扭。应当统一改为介词短语：whether in school or at work。
+Only by doing sth  Only by + 方式状语 + 情态动词/助动词 (can) + 主语 (one / individuals) + 动词原形 (handle)
+问题所在：在英语中，-ing 形容词（boring/uninteresting）用来形容事物的特质（令人无聊的），而 -ed 形容词（bored）才用来形容人的感受（感到无聊的）。如果你写 they will feel boring，字面意思变成了“他们会觉得自己这个人很无趣、很讨厌”。
+如何修复：应该改成人当主语的 feel bored with everything，或者用 find everything uninteresting（发现所有事情都毫无趣味）。
+###########################################################################################################################################################################################################################################################################
+###########################################################################################################################################################################################################################################################################
+
+
+
+
+
+
+
