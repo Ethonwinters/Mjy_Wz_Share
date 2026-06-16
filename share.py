@@ -25,29 +25,27 @@ pip install rectified-flow-pytorch accelerate
 /home/adminstrator/miniforge3/envs/rectified_flow_3/lib/python3.10/site-packages/torch/cuda/__init__.py:180: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12020). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:119.)
   return torch._C._cuda_getDeviceCount() > 0
 False
-The table shows statistics about the amount of pupulation and compares the change of five districts population proportion in NewYork City over a period of 200 years.  
-The tables show statistics about the total population and compare changes in the population proportions of five districts in New York City over a period of 200 years
+
+over a period of 200 years
+just under 略低于
+
 The provided tables illustrate the growth of New York City’s total population alongside a comparative breakdown of population proportions across five distinct districts between 1800 and 2000.
 
-It's clear that the populaiton increase rate is extremely fast for nearly two hundred years, the number of citizens in New York from 79216 in 1800 increase to 8009185 in 2000.
-Furthermore, the distribution of residents in different districts also occur remarkably change
+It is clear that New York's population grew at an extremely rapid rate over nearly two hundred years, with the number of citizens increasing from 79,216 in 1800 to 8,009,185 in 2000. 
+Overall, New York City experienced an exponential population explosion over nearly two hundred years, as the total number of residents skyrocketed from just under 80,000 to over 8 million. 
+Furthermore, the demographic distribution across the various districts underwent a remarkable change.
 
-It is clear that New York's population grew at an extremely rapid rate over the two-century period, with the number of citizens increasing from 79,216 in 1800 to 8,009,185 in 2000. 
-Furthermore, the distribution of residents across different districts also underwent a remarkable change.
-
-Overall, New York City experienced an exponential population explosion over the nearly two hundred years, as the total number of residents skyrocketed from just under 80,000 to over 8 million. 
-Furthermore, the demographic distribution across the various districts underwent a profound transformation.
-
-In 1800, fewer than 80,000 citizens lived in New York. By 1900, the population had increased more than forty-fold, reaching 3,437,202. By 2000, New York's population size had grown by over 4,500,000 compared to the 1900 figure.
+In 1800, fewer than 80,000 citizens lived in New York. By 1900, the population had increased more than forty-fold, reaching 3,437,202. 
+By 2000, New York's population size had grown by over 4,500,000 compared to the 1900 figure.
 
 In 1800, the population of New York stood at just under 80,000. Over the subsequent century, this figure witnessed an astonishing forty-fold surge, skyrocketing to 3,437,202 by 1900. 
 This upward trajectory persisted into 2000, by which time the city's population had expanded by a further 4.5 million.
-
 
 Regarding the individual districts, Manhattan held a dominant position in 1800, housing 76% of the city’s population (60,515 residents), while the other four districts combined accounted for only 24% (18,701).
 By 1900, although Manhattan's population grew significantly to 1,850,093, its share dropped to 54%. In stark contrast, the collective population of the other districts rose to 1,587,109, capturing 46% of the total. 
 By 2000, a dramatic reversal occurred as Manhattan's population declined to 1,538,096, with its proportion plummeting to just 19%. 
 Conversely, the other districts experienced a massive explosion to 6,471,089, commanding a staggering 81% of the total.
+
 # 创建数据文件夹
 mkdir -p data/flowers 
 
@@ -627,64 +625,48 @@ Procrastination is only a short-term measure for managing emotions. It's often f
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
 Manatees
+limb / lɪm /n.肢  flipper n. 鳍 tail / teɪl /  n.（动物的）尾巴
 
-海牛
 
-Manatees, also known as sea cows, are aquatic mammals that belong to a group of animals called Sirenia. This group also contains dugongs. Dugongs and manatees look quite alike - they are similar in size, colour and shape, and both have flexible flippers for forelimbs. 
+Manatees, also known as sea cows, are [aquatic mammals] that belong to a group of animals called Sirenia. This group also contains dugongs. Dugongs and manatees [look quite alike] - they are similar in size, colour and shape, and both have flexible flippers for forelimbs. 
 「Q1」 However, the manatee has a broad, rounded tail, whereas the dugong's is fluked, like that of a whale. There are three species of manatees: the West Indian manatee (Trichechus manatus), the African manatee (Trichechus senegalensis) and the Amazonian manatee (Trichechus inunguis).
 
-海牛，也被称为海中牛，是隶属于海牛目的一类水生哺乳动物。这个类目中还包括儒艮。儒艮和海牛看起来很相似——他们在大小、颜色和体型上都差不多，也都有着灵活的鳍足作为上肢。不过，海牛有着宽阔圆润的尾巴，而儒艮的尾巴则是三角分叉的，就像鲸鱼那样。有三个品种的海牛：西印度海牛（Trichechus manatus）、非洲海牛（Trichechus senegalensis）
-和亚马逊海牛（Trichechus inunguis）
-
 Unlike most mammals, manatees have only six bones in their neck - most others, including humans and giraffes, have seven. This short neck allows a manatee to move its head up and down, but not side to side. 「Q2」 To see something on its left or its right, a manatee must turn its entire body, 
-steering with its flippers. Manatees have pectoral flippers but no back limbs, only a tail for propulsion. They do have pelvic bones, however - a leftover from their evolution from a four-legged to a fully aquatic animal. Manatees share some visual similarities to elephants. Like elephants, manatees have thick, wrinkled skin. 
-「Q3」 They also have some hairs covering their bodies which help them sense vibrations in the water around them.
-与大多数哺乳动物不同，海牛的脖子只有六块骨头——而大多数其他动物，包括人类和长颈鹿，都有七块。这个短脖子使得海牛可以上下移动头部，但是无法从一侧平移向另一侧。要想看到自己左侧或右侧的任何景象，海牛需要转动整个身体，用鳍足来掌控方向。海牛有胸鳍但是没有后肢，只能用尾巴来产生推动力。不过，它们有着盆骨结构——这是从四脚动物到完全水生动物的进化遗存。
-海牛与大象有着某些视觉上的相似度。就像大象那样，海牛也有着厚实起皱的皮肤。它们周身也长着一些毛发来帮助它们感知周围水域的波动。
+[steering with] its flippers. Manatees have pectoral flippers but no back limbs, only a tail for propulsion. They do have pelvic bones, however - a [leftover] from their evolution from a four-legged to a fully aquatic animal. Manatees share some visual similarities to elephants. 
+Like elephants,manatees have [thick, wrinkled skin]. 「Q3」 They also have some hairs covering their bodies which help them sense vibrations in the water around them.
 
-「Q4」 Seagrasses and other marine plants make up most of a manatee's diet. Manatees spend about eight hours each day grazing and uprooting plants. They eat up to 15% of their weight in food each day. African manatees are omnivorous - studies have shown that molluscs and fish make up a small part of their diets. 
-West Indian and Amazonian manatees are both herbivores.
+「Q4」 Seagrasses and other [marine plants] [make up] [most of a manatee's diet]. Manatees spend about eight hours each day grazing and uprooting plants. They eat up to 15% of their weight in food each day. African manatees are omnivorous - 
+studies have shown that [mollusc]s and fish make up a small part of their diets. West Indian and Amazonian manatees are both [herbivore]s.
 
-海草及其它海洋植物构成了一头海牛食谱中的绝大部分。海牛一天中要花大约八个小时翻找啃食植物。它们每天的最大进食量可达身体重量的15%。非洲海牛是杂食性的——研究显示软体动物和鱼类组成了其食谱中的一小部分。西印度海牛和亚马逊海牛则都是素食动物。
+Manatees' teeth are all [molar]s - flat, rounded teeth for [grind]ing food. Due to manatees' abrasive aquatic plant diet, these teeth [get worn down] and they eventually [fall out], so they continually grow new teeth that get pushed forward to replace the ones they lose.
+「Q5」 Instead of having [incisor]s to grasp their food, manatees have [lip]s which function like a pair of hands to help tear food away from the seafloor.
 
-Manatees' teeth are all molars - flat, rounded teeth for grinding food. Due to manatees' abrasive aquatic plant diet, these teeth get worn down and they eventually fall out, so they continually grow new teeth that get pushed forward to replace the ones they lose. 「Q5」 Instead of having incisors to grasp their food, 
-manatees have lips which function like a pair of hands to help tear food away from the seafloor.
-海牛的所有牙齿都是臼齿——用来研磨食物的扁平圆形齿。由于海牛要靠磨碎海洋植物进食，这些牙齿会不断磨损直至最终脱落，因此它们会不断向前长出新牙以替代失去的那些。海牛并没有门齿可用来固定住食物，它们嘴唇的功能就像一双手，用来将食物从海床上薅起拔走。
+Manatees are fully aquatic, but as mammals, they need to come up to the surface to breathe. When [awake], they typically surface every two to four minutes, but they can hold their breath for much longer. 
+Adult manatees sleep underwater for 10-12 hours a day, but they come up for air every 15-20 minutes. Active manatees need to breathe more frequently. 
+「Q6」 It's thought that manatees use their muscular diaphragm and breathing to adjust their buoyancy. They may use diaphragm [contractions] to compress and store gas in folds in their large [intestine] to help them float.
 
-Manatees are fully aquatic, but as mammals, they need to come up to the surface to breathe. When awake, they typically surface every two to four minutes, but they can hold their breath for much longer. Adult manatees sleep underwater for 10-12 hours a day, but they come up for air every 15-20 minutes. Active manatees
-need to breathe more frequently. 「Q6」 It's thought that manatees use their muscular diaphragm and breathing to adjust their buoyancy. They may use diaphragm contractions to compress and store gas in folds in their large intestine to help them float.
-海牛完全生活在水中，但是作为哺乳动物，它们需要来到水面以上呼吸。在醒着时，它们通常会每隔两到四分钟浮出水面一次，但其实它们能憋气的时间比这长得多。成年海牛每天要在水下睡眠10-12小时，但它们每15-20分钟就上来透一次气。活泼的海牛需要更频繁地换气。通常认为海牛会运用其发达的横膈膜和呼吸来调节自身浮力。它们还可以收缩横膈膜，将空气压缩和储存在其大肠的褶皱中以帮助自己漂浮。
-
-The West Indian manatee reaches about 3.5 metres long and weighs on average around 500 kilogrammes. 「Q7」 It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons. There are two subspecies of West Indian manatee: the Antillean manatee is found in
-waters from the Bahamas to Brazil, whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas. 「Q8」 In winter, the Florida manatee is typically restricted to Florida. When the ambient water temperature drops below 20℃, it takes refuge in naturally and artificially warmed
-water, such as at the warm-water outfalls from powerplants.
-西印度海牛体长可达3.5米，平均体重约为500公斤。它可在淡水和咸水环境间穿梭，充分享受海滨红树林和珊瑚礁、河流、湖泊及内陆泻湖等各种地利。西印度海牛有两个亚种：安替列（Antillean）海牛可见于从巴哈马到巴西的水域中，而佛罗里达海牛则分布在美国水域中，不过巴哈马也有过少量发现记录。在冬季，佛罗里达海牛的活动范围通常只局限于佛罗里达。当周遭环境温度掉到20度以下时
-，它寻求庇护的地点就是各种天然或人工的温暖水域，例如发电厂附近暖意融融的排水口。
+The West Indian manatee reaches about 3.5 metres long and weighs on average around 500 kilogrammes. 
+「Q7」 It moves between fresh water and salt water, taking advantage of coastal mangroves and coral reefs, rivers, lakes and inland lagoons. There are two subspecies of West Indian manatee: the Antillean manatee is found in waters from the Bahamas to Brazil,
+whereas the Florida manatee is found in US waters, although some individuals have been recorded in the Bahamas. 
+「Q8」 In winter, the Florida manatee is typically restricted to Florida. When the ambient water temperature drops below 20℃, it [takes refuge in] naturally and artificially warmed water, such as at the warm-water outfalls from powerplants.
 
 「Q9」 The African manatee is also about 3.5 metres long and found in the sea along the west coast of Africa, from Mauritania down to Angola. The species also makes use of rivers, with the mammals seen in landlocked countries such as Mali and Niger.
-非洲海牛的体长也可达致约3.5米，遍布在从毛里塔尼亚一路南下到安哥拉的非洲西海岸海域。这个品种也可以生活在江河中，在例如马里和尼日尔这样四围都是陆地的国家中也能看到这种哺乳动物。
 
-The Amazonian manatee is the smallest species, though it is still a big animal. It grows to about 2.5 metres long and 350 kilogrammes. Amazonian manatees favour calm, shallow waters that are above 23℃. This species is found in fresh water in the Amazon Basin in Brazil, as well as in Colombia, Ecuador and Peru.
+The Amazonian manatee is the smallest species, though it is still a big animal. It grows to about 2.5 metres long and 350 kilogrammes.
+Amazonian manatees favour calm, shallow waters that are above 23℃. This species is found in fresh water in the Amazon Basin in Brazil, as well as in Colombia, Ecuador and Peru.
 
-亚马逊海牛是体型最小的品种，尽管它仍是一头大型动物。它能长到约2.5米，重350公斤。亚马逊海牛青睐水温在23度以上的平缓浅水区。在巴西的亚马逊盆地，以及哥伦比亚、厄瓜多尔和秘鲁的淡水中都能看到这个品种。
+All three manatee species are endangered or at a heightened risk of [extinction]. The African manatee and Amazonian manatee are both listed as Vulnerable by the International Union for Conservation of Nature (IUCN). 
+「Q10」 It is estimated that 140,000 Amazonian manatees were killed between 1935 and 1954 for their meat, fat and skin, with the latter used to make leather. 
+In more recent years, African manatee decline has been tied to [incidental capture偶然捕获] in fishing nets and hunting. Manatee hunting is now [illegal] in every country the African species is found in.
 
-All three manatee species are endangered or at a heightened risk of extinction. The African manatee and Amazonian manatee are both listed as Vulnerable by the International Union for Conservation of Nature (IUCN). 「Q10」 It is estimated that 140,000 Amazonian manatees were killed between 1935 and 1954 for their meat,
-fat and skin, with the latter used to make leather. In more recent years, African manatee decline has been tied to incidental capture in fishing nets and hunting. Manatee hunting is now illegal in every country the African species is found in.
+「Q11」 The two subspecies of West Indian manatee are listed as Endangered by the IUCN. Both are also expected to undergo a decline of 20% over the next 40 years. 
+「Q12」 A review of almost 1,800 cases of [entanglement] in fishing nets and of [plastic consumption] among marine mammals in US waters from 2009 to 2020 found that at least 700 cases involved manatees. 
+「Q13」 The chief cause of death in Florida manatees is [boat strikes]. However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.
 
-所有这三个海牛品种都处在濒危之中或灭绝风险增高。非洲海牛和亚马逊海牛双双被世界自然保护联盟（IUCN）列为"脆弱"级别。据估计，在1935到1954年间有140,000只亚马逊海牛被捕杀是为了获取它们的肉、脂肪和皮，后者被用来制作皮革。更近些年来，非洲海牛数量的下降主要被归咎于渔网偶然捕获和故意捕猎。海牛捕猎行为现如今在每个能发现非洲海牛品种的国家中都是非法的。
-
-「Q11」 The two subspecies of West Indian manatee are listed as Endangered by the IUCN. Both are also expected to undergo a decline of 20% over the next 40 years. 「Q12」 A review of almost 1,800 cases of entanglement in fishing nets and of plastic consumption among marine mammals in US waters from 2009 to 2020 found that 
-at least 700 cases involved manatees. 「Q13」 The chief cause of death in Florida manatees is boat strikes. However, laws in certain parts of Florida now limit boat speeds during winter, allowing slow-moving manatees more time to respond.
-西印度海牛的两个亚种均被世界自然保护联盟列为"濒危"级别。二者也都被预测在接下来的40年间数量将减少20%。对2009到2020年间美国水域中海洋哺乳动物被缠进渔网和误食塑料的将近1800起案例的回顾显示，至少有700起事故中波及到了海牛。佛罗里达海牛的主要死因是船只撞击。不过，佛罗里达部分地区的法律目前会限制船只在冬季的速度，为这些移动缓慢的海牛留出更多反应时间。
-
-
- Manatees
  Appearance
 
  • look similar to dugongs, but with a differently shaped 1tail
  
-
-
  Movement
 
  • have fewer neck bones than most mammals
@@ -733,7 +715,7 @@ adj.醒着的
  TRUE
  FALSE
  NOT GIVEN
-13There is some legislation in place which aims to reduce the likelihood of boat strikes on manatees in Florida. A
+13There is some [legislation / ˌledʒɪsˈleɪʃn / in place] which aims to reduce the likelihood of boat strikes on manatees in Florida. A
 目前已经有一些法律法规出台，旨在降低佛罗里达州海牛遭受船只撞击（boat strikes）的可能性。
  TRUE
  FALSE
