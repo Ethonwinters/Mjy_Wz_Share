@@ -891,45 +891,46 @@ Robots and us
 
 Three leaders in their fields answer questions about our relationships with robot
 
-When asked 'Should robots be used to colonise other planets?', cosmology and astrophysics Professor 😊Martin Rees said he believed the solar system would be mapped by robotic craft by the end of the century. 'The next step would be mining of asteroids, 
-enabling fabrication of large structures in space without having to bring all the raw materials from Earth. I think this is more realistic and benign than the "terraforming"* of planets.' He maintains that colonised planets 'should be preserved with a 
-status that is analogous to Antarctica here on Earth.'
+When asked 'Should robots be used to (colonise) other planets?', cosmology and astrophysics Professor 😊Martin Rees said he believed the (solar) system would be mapped by robotic craft by the end of the century. 'The next step would be mining of (asteroid)s, 
+enabling (fabrication) of large structures in space without having to bring all the raw materials from Earth. I think this is more realistic and benign than the "terraforming"* of planets.' He maintains that colonised planets 'should be preserved with a 
+status that is (analogous) to (Antarctica) here on Earth.'
 
-On the question of using robots to colonise other planets and exploit mineral resources, engineering Professor 😊Daniel Wolpert replied, 'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast 
+On the question of using robots to colonise other planets and exploit(exploitation) (mineral) resources, engineering Professor 😊Daniel Wolpert replied, 'I don't see a pressing need to colonise other planets unless we can bring [these] resources back to Earth. The vast 
 majority of Earth is currently inaccessible to us. Using robots to gather resources nearer to home would seem to be a better use of our robotic tools.'
 
-Meanwhile, for anthropology Professor 😊Kathleen Richardson, the idea of 'colonisation' of other planets seemed morally dubious: 'I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in "the Other", 
+Meanwhile, for (anthropology) Professor 😊Kathleen Richardson, the idea of 'colonisation' of other planets seemed morally (dubious): 'I think whether we do something on Earth or on Mars we should always do it in the spirit of a genuine interest in "the Other", 
 not to impose a particular model, but to meet "the Other".'
 
-In response to the second question, 'How soon will machine intelligence outstrip human intelligence?', 😊Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, 'Robots are still limited in their ability to sense their 
-environment: they can't yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as adeptly as we do. Moral questions then 
-arise. Should we feel guilty about exploiting [sophisticated robots]? Should we fret if they are underemployed, frustrated, or bored?'
+In response to the second question, 'How soon will machine intelligence (outstrip) human intelligence?', 😊Rees mentions robots that are advanced enough to beat humans at chess, but then goes on to say, 'Robots are still limited in their ability to sense their 
+environment: they can't yet recognise and move the pieces on a real chessboard as cleverly as a child can. Later this century, however, their more advanced successors may relate to their surroundings, and to people, as (adeptly) as we do. Moral questions then 
+arise. Should we feel (guilty) about exploiting [(sophisticated) robots]? Should we (fret) if they are (underemployed), frustrated, or bored?'
 
-😊Wolpert's response to the question about machine intelligence outstripping human intelligence was this: 'In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that far outstrips humans. However, there
+😊Wolpert's response to the question about machine intelligence outstripping human intelligence was this: 'In a limited sense it already has. Machines can already navigate, remember and search for items with an ability that (far outstrips humans). However, there
 is no machine that can identify visual objects or speech with the reliability and flexibility of humans. Expecting a machine close to the creative intelligence of a human within the next 50 years would be highly ambitious.'
 
-😊Richardson believes that our fear of machines becoming too advanced has more to do with human nature than anything intrinsic to the machines themselves. In her view, it stems from humans' tendency to personify inanimate objects: we create machines based on
+😊Richardson believes that our fear of machines becoming too advanced (has more to do with) human nature than anything (intrinsic) to the machines themselves. In her view, it (stems from源于) humans' tendency to （personify inanimate objects）: we create machines based on
 representations of ourselves, imagine that machines think and behave as we do, and therefore see them as an autonomous threat. 'One of the consequences of thinking that the problem lies with machines is that we tend to imagine they are greater and more powerful 
 than they really are and subsequently they become so.'
 
 This led on to the third question, 'Should we be scared by advances in artificial intelligence?' To this question,😊 Rees replied, 'Those who should be worried are the futurologists who believe in the so-called "singularity".**  And another worry is that we are 
-increasingly dependent on computer networks, and that these could behave like a single "brain" with a mind of its own, and with goals that may be contrary to human welfare. I think we should ensure that robots remain as [no more than] "idiot savants" lacking the 
+increasingly dependent on computer networks, and that these could behave like a single "brain" with a mind of its own, and with goals that may be (contrary to human welfare). I think we should ensure that robots remain as [no more than] "idiot savants" lacking the 
 capacity to outwit us, even though they may greatly surpass us in the ability to calculate and process information.'
 
-😊Wolpert's response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer viruses. 'But in this case,' he says, 'the real intelligence is the malicious designer. Critically, the benefits of computers outweigh
+😊Wolpert's response was to say that we have already seen the damaging effects of artificial intelligence in the form of computer (virus)es. 'But in this case,' he says, 'the real intelligence is the (malicious) designer. Critically, the benefits of computers outweigh
 the damage that computer viruses cause. Similarly, while there may be misuses of robotics in the near future, the benefits that they will bring are likely to outweigh these negative aspects.'
 
-😊Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots persist; none have in fact risen up and challenged human supremacy.' She believes that as robots have never shown themselves to be a threat to humans, 
-it seems unlikely that they ever will. In fact, she went on, 'Not all fear [robots]; many people welcome machine intelligence.'
+😊Richardson's response to this question was this: 'We need to ask why fears of artificial intelligence and robots (persist); none have in fact risen up and challenged human (supremacy).' She believes that as robots have never shown themselves to be a threat to humans, 
+(it seems unlikely that 看起来不太可能…… / 似乎不会……)they ever will. In fact, she went on, 'Not all fear [robots]; many people welcome machine intelligence.'
 
-In answer to the fourth question, 'What can science fiction tell us about robotics?', 😊Rees replied, 'I sometimes advise students that it's better to read first-rate science fiction than second-rate science - more stimulating, and perhaps (no more likely 不太可能) to be wrong.'
+In answer to the fourth question, 'What can science (fiction) tell us about robotics?', 😊Rees replied, 'I sometimes advise students that it's better to read first-rate science fiction than second-rate science - more (stimulating), 
+and perhaps (no more likely 不太可能) to be wrong.'
 
 As his response, 😊Wolpert commented, 'Science fiction has often been remarkable at predicting the future. ...Science fiction has painted a vivid spectrum of possible futures, from cute and helpful robots to dystopian robotic societies. Interestingly, almost no science 
-fiction envisages a future without robots.'
+fiction (envisage)s a future without robots.'
 
 Finally, on the question of science fiction, 😊Richardson pointed out that in modern society, people tend to think there is reality on the one hand, and fiction and fantasy on the other. She then explained that the division did not always exist, and that scientists 
 and technologists made this separation because they wanted to carve out the sphere of their work. 'But the divide is not so clear cut, and that is why the worlds seem to collide at times,' she said. 'In some cases, we need to bring these different understandings 
-together to get a whole perspective. Perhaps then, we won't be so frightened that something we create as a copy of ourselves will be a [threat] to us.'
+together to get a whole perspective. Perhaps then, we won't be so (frightened) that something we create as a copy of ourselves will be a [threat] to us.'
 
 * terraforming: modifying a planet's atmosphere to suit human needs
 
@@ -946,15 +947,15 @@ NB You may use any letter more than once.
 
 28. The risk of robots harming us is less serious than humans believe it to be.  B C
 
-29. It will take many decades for robot intelligence to be as imaginative as human intelligence.  B
+29. It will take many decades for robot intelligence to be as (imaginative) as human intelligence.  B
 
 30. We may have to start considering whether we are treating robots fairly.   A
 
 31. Robots are probably of more help to us on Earth than in space.  B
 
-32. The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of mediocre scientists.  A
+32. The ideas in high-quality science fiction may prove to be just as accurate as those found in the work of (mediocre) scientists.  A
 
-33. There are those who look forward to robots developing greater intelligence. C
+33. There are those who (look forward to) robots developing greater intelligence. C
 
 A Martin Ress
 B Daniel Wolpert
@@ -964,7 +965,7 @@ Questions 34-36
 
 Complete each sentence with the correct ending, A-D, below.
 
-34. Richardson and Rees express similar views regarding the ethical aspect of   A C
+34. Richardson and Rees express similar views regarding the (ethical) aspect of   A C
 
 35. Rees and Wolpert share an opinion about the extent of  B
 
@@ -979,25 +980,25 @@ C. changes made to other planets for our own benefit.
 D. the harm already done by artificial intelligence.
 
 37What point does Richardson make about fear of machines? B
- It has grown alongside the development of ever more advanced robots.
- It is the result of our inclination to attribute human characteristics to non-human entities.
- It has its origins in basic misunderstandings about how inanimate objects function.
+ It has grown alongside the development of ever more advanced robots.  ever + 比较级等于 more and more=increasingly  
+ It is the result of our (inclination) to attribute human characteristics to non-human entities.
+ It has its (origins in) (basic misunderstandings） about how inanimate objects function.
  It demonstrates a key difference between human intelligence and machine intelligence.
  
 38What potential advance does Rees see as a cause for concern? C
- robots outnumbering people
+ robots (outnumbering) people
  robots having abilities which humans do not
  artificial intelligence developing independent thought
  artificial intelligence taking over every aspect of our lives
  
 39What does Wolpert emphasise in his response to the question about science fiction?C B
  how science fiction influences our attitudes to robots
- how fundamental robots are to the science fiction genre
+ how fundamental robots are to the (science fiction genre)
  how the image of robots in science fiction has changed over time
- how reactions to similar portrayals of robots in science fiction may vary
+ how reactions to similar (portrayal)s of robots in science fiction may vary
  
 40What is Richardson doing in her comment about reality and fantasy?C
- warning people not to confuse one with the other
- outlining ways in which one has impacted on the other
+ warning people not to [confuse] one [with] the other
+ outlining 概述了ways in which one has impacted on the other
  recommending a change of approach in how people view them
  explaining why scientists have a different perspective on them from other people
