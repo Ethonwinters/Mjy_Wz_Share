@@ -33,23 +33,25 @@ total population
 a comparative breakdown of population proportions
 
 
-The provided tables illustrate the growth of New York City’s total population alongside a comparative breakdown of population proportions across five distinct districts between 1800 and 2000.
+(The provided tables) illustrate (the growth of) New York City’s total population alongside (a comparative breakdown of population proportions) (across five distinct districts) between 1800 and 2000.
 
-It is clear that New York's population grew at an extremely rapid rate over nearly two hundred years, with the number of citizens increasing from 79,216 in 1800 to 8,009,185 in 2000. 
-Overall, New York City experienced an exponential population explosion over nearly two hundred years, as the total number of residents skyrocketed from just under 80,000 to over 8 million. 
-Furthermore, the demographic distribution across the various districts underwent a remarkable change.
+It is clear that New York's population (grew at) an extremely rapid rate (over nearly two hundred years), with (the number of citizens) (increasing from 79,216 in 1800 to 8,009,185 in 2000.)  with 是一个介词
 
-In 1800, fewer than 80,000 citizens lived in New York. 
-By 1900, the population had increased more than forty-fold, reaching 3,437,202. 
-By 2000, New York's population size had grown by over 4,500,000 compared to the 1900 figure.
+Overall, New York City (experienced) (an exponential population explosion) over nearly two hundred years, as the total number of residents (skyrocketed from just under 80,000 to over 8 million).   as 在这里当连词用 while  although  when 
+Furthermore, the (demographic distribution) across the various districts (underwent a remarkable change).
 
-In 1800, the population of New York stood at just under 80,000. Over the subsequent century, this figure witnessed an astonishing forty-fold surge, skyrocketing to 3,437,202 by 1900. 
-This upward trajectory persisted into 2000, by which time the city's population had expanded by a further 4.5 million.
+In 1800, (fewer than 80,000 citizens) lived in New York. 
+By 1900, the population (had increased) (more than forty-fold), reaching 3,437,202. 
+By 2000, New York's population size (had grown by) over 4,500,000 (compared to) the 1900 figure.
 
-Regarding the individual districts, Manhattan held a dominant position in 1800, housing 76% of the city’s population (60,515 residents), while the other four districts combined accounted for only 24% (18,701).
-By 1900, although Manhattan's population grew significantly to 1,850,093, its share dropped to 54%. In stark contrast, the collective population of the other districts rose to 1,587,109, capturing 46% of the total. 
+In 1800, the population of New York (stood at just under 80,000). 
+(Over the subsequent century), this figure witnessed an astonishing forty-fold surge, skyrocketing to 3,437,202 by 1900. 
+This upward trajectory (persisted into) 2000, by which time the city's population (had expanded by a further 4.5 million).  by a further + 数字：进一步增加了……
+
+Regarding the individual districts, Manhattan (held a dominant position) in 1800, housing 76% of the city’s population (60,515 residents), while the other four districts (combined accounted for only 24%) (18,701).
+By 1900, although Manhattan's population (grew significantly to 1,850,093), its share dropped to 54%. (In stark contrast), (the collective population of the other districts) rose to 1,587,109, capturing 46% of the total. 
 By 2000, a dramatic reversal occurred as Manhattan's population declined to 1,538,096, with its proportion plummeting to just 19%. 
-Conversely, the other districts experienced a massive explosion to 6,471,089, commanding a staggering 81% of the total.
+Conversely, the other districts experienced a massive explosion to 6,471,089, commanding a staggering 81% of the total.(making up a huge 81% of the total.)
 
   
 # 创建数据文件夹
