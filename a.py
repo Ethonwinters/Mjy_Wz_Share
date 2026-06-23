@@ -236,83 +236,6 @@ G. thought it more likely that they would experience something bad.
  NOT GIVEN
 ###################################################################################################################################################################################################################
 ###################################################################################################################################################################################################################
-6. 准备 DrivAerML 数据
-
-cd ~
-git clone https://github.com/NVIDIA/physicsnemo-curator.git
-cd ~/physicsnemo-curator
-pip install "physicsnemo-curator[mesh,loky]"  
-下载小样本先测试：
-cd~ / physicinenemo
-cd ~
-/physicsnemo-curator/examples/external_aerodynamics
-chmod +x download_hugging_face_dataset.sh
-./download_hugging_face_dataset.sh -d ~/data/drivaerml_raw -s 1 -e 5
-跑 Curator，生成 Zarr：
-
-cd ~/physicsnemo-curator
-python run_etl.py \
-  --config-dir=examples/external_aerodynamics/config \
-  --config-name=external_aero_etl_drivaerml \
-  etl.source.input_dir=~/data/drivaerml_raw \
-  etl.sink.output_dir=~/data/drivaerml_processed_surface \
-  etl.common.model_type=surface
-Curator README 明确说明该流程把 DrivAerML 的 STL/VTP/VTU 等 CFD 数据转成训练用 Zarr/NumPy，并且适用于 DoMINO 和 Transolver/GeoTransolver 这类模型。
-
-7. 计算归一化文件
-
-cd ~/physicsnemo/examples/cfd/external_aerodynamics/transformer_models
-mkdir -p normalizations runs
-
-python src/compute_normalizations.py \
-  --config-name geotransolver_surface \
-  data.train.data_path=~/data/drivaerml_processed_surface/train \
-  data.normalization_dir=$PWD/normalizations
-如果你的 Curator 输出目录没有自动分 train/val，就先看一下：
-
-find ~/data/drivaerml_processed_surface -maxdepth 2 -type d
-然后把 data.train.data_path、data.val.data_path 改成实际 Zarr 目录。
-
-8. 先做 1 epoch 冒烟测试
-
-python train.py \
-  --config-name geotransolver_surface \
-  data.train.data_path=~/data/drivaerml_processed_surface/train \
-  data.val.data_path=~/data/drivaerml_processed_surface/val \
-  data.normalization_dir=$PWD/normalizations \
-  data.resolution=20000 \
-  training.num_epochs=1 \
-  output_dir=$PWD/runs \
-  run_id=geotransolver/surface/smoke
-9. 正式训练 GeoTransolver surface
-
-python train.py \
-  --config-name geotransolver_surface \
-  data.train.data_path=~/data/drivaerml_processed_surface/train \
-  data.val.data_path=~/data/drivaerml_processed_surface/val \
-  data.normalization_dir=$PWD/normalizations \ 
-  data.resolution=200000 \
-  output_dir=$PWD/runs \
-  run_id=geotransolver/surface/bq
-你的 46GB 显存可以先试默认 200000；如果 OOM，降到 100000 或 50000。README 也说明可用 data.resolution=N 控制每张 GPU 使用的点数。(raw.githubusercontent.com)
-  data.habitat=include/zarr.shape.np(tensorflow1.21^) present the cuda is avaliable now()
-python/ train.py()
-output=torch.nnsequenctional(kernnal=33 padding=2 laund.unitls(1.2) )
-if cuda isnot avaliable now 
-you trenscent()
-where.logs(torch,py)
-
-10. 推理
-
-python src/inference_on_zarr.py \
-  --config-name geotransolver_surface \
-  run_id=$PWD/runs/geotransolver/surface/bq \
-  data.val.data_path=~/data/drivaerml_processed_surface/val \
-  data.normalization_dir=$PWD/normalizations \
-  data.return_mesh_features=true
-常见坑：不要装 pytorch-cuda=12.2，这里走 pip 轮子；不要把 nvcc -V 的 12.2 当成 PyTorch 必须匹配的版本；README 里模型名有时写 GeoTranSolver，但 Hydra 配置名是小写 geotransolver_surface / geotransolver_volume。
-What are the advantages and disadvantages of being famous at a young age?
-
 ###########################################################################################################################################################################################################################################################################
 Questions 14-18
 Reading Passage 2 has seven sections, A-G.
@@ -478,52 +401,6 @@ New Zealand's kākāpō
  • the Recovery Plan included an increase in funding12
 
  • a current goal of the Recovery Plan is to maintain the involvement of stakeholders 13in kākāpō protection.
-
-
- 
-Questions 1-10
-Complete the table below.
-Write ONE WORD AND/OR A NUMBER for each answer.
-
-Name of restaurant | Location | Reason for recommendation | Other comments
---------------------------------------------------------------------------------
-
-The Junction
-
-Greyson Street, near the station
-
-Good for people who are especially keen on 1 ____fish____
-
-
-Quite expensive
-The 2 _____roof___ is a good place for a drink
-
-
---------------------------------------------------------------------------------
-
-paloma
-Location: In Bow Street next to the cinema
-Reason for recommendation:
-3 ___Spanish_____ food, good for sharing
-
-Other comments:
-Staff are very friendly
-Need to pay £50 deposit
-A limited selection of 4 ______vegetarian__ food on the menu
-
-
---------------------------------------------------------------------------------
-The 5 _____audley___
-Location: At the top of a 6 ___hotal_
-
-Reason for recommendation:
-A famous chef
-All the 7 _____reviews_ are very good
-Only uses 8 _______local_ ingredients
-
-Other comments:
-Set lunch costs £9 ____30____ per person
-Portions probably of 10 _____average___ size
 
 The kākāpō is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures
 
