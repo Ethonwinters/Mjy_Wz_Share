@@ -1011,7 +1011,7 @@ Georgia O'Keeffe
 For seven decades, Georgia O'Keeffe (1887-1986) was a major figure in American art. Remarkably, she remained independent from shifting art trends and her work stayed true to her own vision, which was based on finding the essential,
 abstract forms in nature. With exceptionally keen powers of observation and great finesse with a paintbrush, she recorded subtle nuances of colour, shape, and light that enlivened her paintings and attracted a wide audience.
 
-Born in 1887 near Sun Prairie, Wisconsin to cattle breeders Francis and Ida O'Keeffe, Georgia was raised on their farm along with her six siblings. By the time she graduated from high school in 1905, she had determined to make her way as an artist.
+Born in 1887 near Sun Prairie, Wisconsin to cattle breeders Francis and Ida O'Keeffe, Georgia was raised on their farm along with her six siblings. #By the time she graduated from high school in 1905, she had determined to make her way as an artist.
 She studied the techniques of traditional painting at the Art Institute of Chicago school (1905) and the Art Students League of New York (1907-8). After attending university and then training college, she became an art teacher and taught in elementary schools,
 high schools, and colleges in Virginia, Texas, and South Carolina from 1911 to 1918.
 
@@ -1048,36 +1048,36 @@ generations of artists and art lovers who derive inspiration from these very Ame
 Choose ONE WORD ONLY from the passage for each answer.
 
 The life and work of Georgia O'Keeffe
-• studied art, then worked as a 1 in various places in the USA
-• created drawings using 2which were exhibited in New York City
-• moved to New York and became famous for her paintings of the city's 3
-• produced a series of innovative close-up paintings of 4
-• went to New Mexico and was initially inspired to paint the many 5 that could be found there
-• continued to paint various features that together formed the dramatic 6 of New Mexico for over forty years
-• travelled widely by plane in later years, and painted pictures of clouds and 7 seen from above
+• studied art, then worked as a 1 teacher in various places in the USA
+• created drawings using 2charcoal which were exhibited in New York City
+• moved to New York and became famous for her paintings of the city's 3skyscrapers
+• produced a series of innovative close-up paintings of 4 flowers
+• went to New Mexico and was initially inspired to paint the many 5bones that could be found there
+• continued to paint various features that together formed the dramatic 6 landscape of New Mexico for over forty years
+• travelled widely by plane in later years, and painted pictures of clouds and 7rivers seen from above
 
 
-8Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.
+8Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.C B
  TRUE
  FALSE
  NOT GIVEN
-9When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.
+9When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.A
  TRUE
  FALSE
  NOT GIVEN
-10Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.
+10Alfred Stieglitz first discovered O'Keeffe's work when she sent some abstract drawings to his gallery in New York City.A B
  TRUE
  FALSE
  NOT GIVEN
-11O'Keeffe was the subject of Stieglitz's photographic work for many years.
+11O'Keeffe was the subject of Stieglitz's photographic work for many years.A
  TRUE
  FALSE
  NOT GIVEN
-12O'Keeffe's paintings of the patio of her house in Abiquiú were among the artist's favourite works.
+12O'Keeffe's paintings of the patio of her house in Abiquiú were among the artist's favourite works.A C
  TRUE
  FALSE
  NOT GIVEN
-13O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.
+13O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.C
  TRUE
  FALSE
  NOT GIVEN
@@ -1118,23 +1118,23 @@ Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando 
 
 Reading Passage 2 has six paragraphs, A-F.
 Which paragraph contains the following information?
-1 how a type of plant functions as a natural protection for coastlines 
-2 a prediction about how long it could take to stop noticing the effects of climate change
-3 a reference to the fact that a solution is particularly cost-effective
-4 a mention of a technology used to locate areas most in need of intervention
+1 how a type of plant functions as a natural protection for coastlines C
+2 a prediction about how long it could take to stop noticing the effects of climate changeB A
+3 a reference to the fact that a solution is particularly cost-effectiveF D
+4 a mention of a technology used to locate areas most in need of intervention D F
 
-18 The stormwater-management programme in Miami Beach has involved the installation of efficient 18.
-19 The construction of 19 was the first stage of a project to ensure the success of mangroves in Indonesia.
-20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can 20.
-21 Rising sea levels in Bangladesh have made it necessary to introduce various 21that are suitable for areas of high salt content.
-22 A project in LA has increased the number of 22 on the city's streets. 
+18 The stormwater-management programme in Miami Beach has involved the installation of efficient pumps18.
+19 The construction of 19dams was the first stage of a project to ensure the success of mangroves in Indonesia.
+20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can 20float.
+21 Rising sea levels in Bangladesh have made it necessary to introduce various 21crops that are suitable for areas of high salt content.
+22 A project in LA has increased the number of 22trees on the city's streets. 
 
 Look at the following statements (Questions 23-26) and the list of people below. 
 Match each statement with the correct person, A-E.
-23. It is essential to adopt strategies which involve and help residents of the region.
-24. Interventions which reduce heat are absolutely vital for our survival in this location.
-25. More work will need to be done in future decades to deal with the impact of rising water levels.  
-26. The number of locations requiring action to adapt to flooding has grown in recent years.  
+23. It is essential to adopt strategies which involve and help residents of the region.D B
+24. Interventions which reduce heat are absolutely vital for our survival in this location.E
+25. More work will need to be done in future decades to deal with the impact of rising water levels.   A
+26. The number of locations requiring action to adapt to flooding has grown in recent years.   C
 
 A Yanira Pineda
 B Susanna Tool
@@ -1149,25 +1149,26 @@ A new role for livestock guard dogs
 Livestock guard dogs, traditionally used to protect farm animals from predators, are now being used to protect the predators themselves
 
 A    For thousands of years, livestock guard dogs worked alongside shepherds to protect their sheep, goats and cattle from predators such as wolves and bears. But in the 19th and 20th centuries, when such predators were largely exterminated, 
-most guard dogs lost their jobs. In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an unexpected revival.
+most guard dogs lost their jobs. In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an 
+unexpected revival. 
 
 B    Today there are around 50 breeds of guard dogs on duty in various parts of the world. These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog's family. The dogs will place 
 themselves between the livestock and any threat, barking loudly. If necessary, they will chase away predators, but often their mere presence is sufficient. 'Their initial training is to make them understand that livestock is going to be their life,
-' says Dan Macon, a shepherd with three guard dogs. 'A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.'
+' says 😀Dan Macon, a shepherd with three guard dogs. 'A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.'
 
-C    The evidence indicates that guard dogs are highly effective. For example, in Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the farmers participating in a programme to train and use guard dogs to protect their herds 
-against attack from wolves rate the performance of the dogs as very good or excellent. In a study carried out in Australia by Linda van Bommel and Chris Johnson at the University of Tasmania, more than 65 per cent of herders reported that predation
+C    The evidence indicates that guard dogs are highly effective. For example, in Portugal, biologist 😀Silvia Ribeiro has found that more than 90 percent of the farmers participating in a programme to train and use guard dogs to protect their herds 
+against attack from wolves rate the performance of the dogs as very good or excellent. In a study carried out in Australia by 😀Linda van Bommel and 😀Chris Johnson at the University of Tasmania, more than 65 percent of herders reported that predation
 stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks. 'If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they 
-save from predation,' says van Bommel.
+save from predation,' says 😀van Bommel.
 
-D    But today's guard dogs also have a new role - to help preserve the predators. It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them. In Namibia, more than 90 per cent of cheetahs live
+D    But today's guard dogs also have a new role - to help preserve the predators. It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them. In Namibia, more than 90 percent of 😀cheetahs😀 live
 outside protected areas, close to humans raising livestock. As a result, the cheetahs are often held responsible for animal losses, and large numbers have been killed by farmers. When guard dogs were introduced, more than 90 per cent of farmers reported a
-dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. Julie Young, at Utah State University in the US, believes this result applies widely. 'There is common ground from the livestock perspective and from 
+dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. 😀Julie Young, at Utah State University in the US, believes this result applies widely. 'There is common ground from the livestock perspective and from 
 the conservation perspective,' she says. 'If ranchers don't have a dead cow, they will not make a call to apply for a permit to kill a wolf.'
 
-E    Looking at all the published evidence, Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs - but warned that such self-reported results must be taken with
+E    Looking at all the published evidence, 😀Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs - but warned that such self-reported results must be taken with
 a pinch of salt. What's more, it is possible that livestock guard dogs merely displace predators to unprotected neighbouring properties, where their fate isn't recorded. 'In some regions, we work with almost every farmer, but in others only one or two have dogs,'
-says Ribeiro. 'If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use poison and kill an entire pack of wolves.'
+says 😀Ribeiro. 'If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use poison and kill an entire pack of wolves.'
 
 F    Another concern is whether there may be unintended ecological effects of using guard dogs. Studies suggest that reducing deaths of one type of predator may have a negative impact on other species. The extent of this problem isn't known, but the consequences
 are clear in Namibia. Cheetahs aren't the only species that cause sheep and goat losses there: other predators also attack livestock. In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed
@@ -1184,15 +1185,15 @@ Which paragraph contains the following information?
 
 NB   You may use any letter more than once.
 
-27 an example of how one predator has been protected by the introduction of livestock guard dogs
+27 an example of how one predator has been protected by the introduction of livestock guard dogs D
 						
-28 an optimistic suggestion about the possible positive developments in the use of livestock guard dogs
+28 an optimistic suggestion about the possible positive developments in the use of livestock guard dogsG
 						
-29 a description of how the methods used by livestock guard dogs help to keep predators away
+29 a description of how the methods used by livestock guard dogs help to keep predators away B
 						
-30 claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers’ herds
+30 claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers’ herds C
 						
-31 a reference to how livestock guard dogs gain their skills
+31 a reference to how livestock guard dogs gain their skills  B
 						
 Questions 32-36
 
@@ -1201,15 +1202,15 @@ Look at the following statements (Questions 32-36) and the list of people below.
 Match each statement with the correct person, A-E.
 
 
-32. The use of guard dogs may save the lives of both livestock and wild animals.  
+32. The use of guard dogs may save the lives of both livestock and wild animals.   D
 
-33.Claims of a change in behaviour from those using livestock guard dogs may not be totally accurate.  
+33.Claims of a change in behaviour from those using livestock guard dogs may not be totally accurate.  B E
 
-34. There may be negative results if the use of livestock guard dogs is not sufficiently widespread.  
+34. There may be negative results if the use of livestock guard dogs is not sufficiently widespread.  E B
 
-35. Livestock guard dogs are the best way of protecting farm animals, as long as the dogs are appropriately handled.  
+35. Livestock guard dogs are the best way of protecting farm animals, as long as the dogs are appropriately handled.   C
 
-36. Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.  
+36. Teaching a livestock guard dog how to do its work needs a different focus from teaching a house guard dog.  A
 List of People
 A   Dan Macon
 B   Silvia Ribeiro
@@ -1217,20 +1218,10 @@ C   Linda van Bommel
 D   Julie Young
 E   Bethany Smith
 
-Questions 37-40
 
-Complete the summary below.
-
-Choose ONE WORD ONLY from the passage for each answer.
-
-
-Unintended ecological effects of using guard dogs
-
-
-In Namibia, livestock guard dogs have been used to protect domestic animals from attacks by cheetahs. This has led to a rise in the deaths of other predators, particularly  37. In addition, it has been suggested that the dogs could have  
-38 which may affect other species, and that they may reduce the amount of  39  available to certain wild animals.
-
-On the other hand, these dogs may help birds by protecting their nests. These might otherwise be threatened by predators such as  40 .
+In Namibia, livestock guard dogs have been used to protect domestic animals from attacks by cheetahs. This has led to a rise in the deaths of other predators, particularly  jackals 37. In addition, it has been suggested that the dogs could have  
+38diseases which may affect other species, and that they may reduce the amount of  39 food  available to certain wild animals.
+On the other hand, these dogs may help birds by protecting their nests. These might otherwise be threatened by predators such as  foxes40 .
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
 How stress affect our judgement
