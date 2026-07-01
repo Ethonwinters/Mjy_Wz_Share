@@ -1007,44 +1007,64 @@ D. the harm already done by artificial intelligence.
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
 Georgia O'Keeffe
-
-For seven decades, Georgia O'Keeffe (1887-1986) was a major figure in American art. Remarkably, she remained independent from shifting art trends and her work stayed true to her own vision, which was based on finding the essential,
+charcoal  / ˈtʃɑːkəʊl / n.木炭  skyscraper / ˈskaɪskreɪpə(r) / n.摩天大楼
+ 
+For seven decades, Georgia O'Keeffe (1887-1986) was a major figure in American art. Remarkably, she remained (independent from) shifting art trends and her work stayed true to her own vision, which was based on finding the essential,
 abstract forms in nature. With exceptionally keen powers of observation and great finesse with a paintbrush, she recorded subtle nuances of colour, shape, and light that enlivened her paintings and attracted a wide audience.
+在长达七十年的时间里，乔治亚·欧姬芙（1887-1986）一直是美国艺术界的核心人物。值得称道的是，她始终独立于不断变化的艺术潮流之外，其作品始终忠实于她自己的视觉理念，即寻找自然界中本质的、抽象的形式。凭借非凡敏锐的观察力和高超的画笔技艺，
+她记录了色彩、形状和光线的微妙变化，这些元素赋予了她画作以生命力，并吸引了广泛的受众。
 
-Born in 1887 near Sun Prairie, Wisconsin to cattle breeders Francis and Ida O'Keeffe, Georgia was raised on their farm along with her six siblings. #By the time she graduated from high school in 1905, she had determined to make her way as an artist.
+Born in 1887 near Sun Prairie, Wisconsin to cattle breeders Francis and Ida O'Keeffe, Georgia was (raised on) their farm along with her six siblings. #By the time she graduated from high school in 1905, she had determined to make her way as an artist.
 She studied the techniques of traditional painting at the Art Institute of Chicago school (1905) and the Art Students League of New York (1907-8). After attending university and then training college, she became an art teacher and taught in elementary schools,
 high schools, and colleges in Virginia, Texas, and South Carolina from 1911 to 1918.
+1887年，欧姬芙出生于威斯康星州太阳草原市附近，父母是牛类繁育者弗朗西斯·欧姬芙和艾达·欧姬芙。她和六个兄弟姐妹一起在父母的农场里长大。到1905年高中毕业时，她就已经立志要成为一名艺术家。她曾在芝加哥艺术学院（1905年）和纽约艺术学生联盟（1907-1908年）学习传统绘画技巧。
+在读完大学和培训学院后，她成为了一名美术老师，并于1911年至1918年期间在弗吉尼亚州、德克萨斯州和南卡罗来纳州的小学、高中和大学任教。
 
 During this period, O'Keeffe began to experiment with creating abstract compositions in charcoal, and produced a series of innovative drawings that led her art in a new direction. She sent some of these drawings to a friend in New York, who showed them to art
 collector and photographer Alfred Stieglitz in January 1916. Stieglitz was impressed, and exhibited the drawings later that year at his gallery on Fifth Avenue, New York City, where the works of many avant-garde artists and photographers were introduced to the American public.
+在此期间，欧姬芙开始尝试用木炭创作抽象构图，并创作了一系列富有创新性的素描，这些作品将她的艺术推向了一个新的方向。她把其中的一些素描寄给了纽约的一位朋友，这位朋友在1916年1月将作品展示给艺术收藏家兼摄影师阿尔弗雷德·斯蒂格里茨。
+斯蒂格里茨深受触动，并于同年晚些时候在纽约市第五大道的画廊展出了这些素描。在这里，许多前卫艺术家和摄影师的作品被首次介绍给美国公众。
 
-With Stieglitz's encouragement and promise of financial support, O'Keeffe arrived in New York in June 1918 to begin a career as an artist. For the next three decades, Stieglitz vigorously promoted her work in twenty-two solo exhibitions and numerous group 
-installations. The two were married in 1924. The ups and downs of their personal and professional relationship were recorded in Stieglitz's celebrated black-and-white portraits of O'Keeffe, taken over the course of twenty years (1917-37).
+With Stieglitz's encouragement and promise of financial support, O'Keeffe arrived in New York in June 1918 to begin a career as an artist. For the next three decades, Stieglitz (vigorously) promoted her work in twenty-two solo exhibitions and numerous group 
+installations. The two were married in 1924. The ups and downs of their personal and professional relationship were recorded in Stieglitz's celebrated black-and-white portraits of O'Keeffe, taken (over the course of) twenty years (1917-37).
+在斯蒂格里茨的鼓励和经济资助的承诺下，欧姬芙于1918年6月来到纽约，正式开启她的艺术家生涯。在接下来的三十年里，斯蒂格里茨在22场个展和无数次联展中大力推广她的作品。两人于1924年结婚。
+他们个人关系与职业关系的起起落落，都被记录在斯蒂格里茨拍摄的长达二十年（1917-1937年）的著名黑白欧姬芙肖像摄影作品中。
 
-By the mid-1920s, O'Keeffe was recognized as one of America's most important and successful artists, widely known for the architectural pictures that dramatically depict the soaring skyscrapers of New York. But most often, she painted botanical subjects, 
-inspired by annual trips to the Stieglitz family summer home. In her magnified images depicting flowers, begun in 1924, O'Keeffe brings the viewer right into the picture.
+By the mid-1920s, O'Keeffe was recognized as one of America's most important and successful artists, widely known for the (architectural) pictures that dramatically (depict) the soaring skyscrapers of New York. But most often, she painted botanical subjects, 
+inspired by annual trips to the Stieglitz family summer home. In her (magnified) images depicting flowers, begun in 1924, O'Keeffe brings the viewer right into the picture.
+到1920年代中期，欧姬芙已被公认为美国最重要且最成功的艺术家之一，因其戏剧性描绘纽约高耸摩天大楼的建筑画作而闻名遐迩。但最频繁的是，她会画植物题材，灵感来自每年去斯蒂格里茨家族夏日度假屋的旅行。在不晚于1924年开始创作的、描绘花卉的放大图像中，欧姬芙将观者直接带入了画面之中
 
-Enlarging the tiniest details to fill an entire metre-wide canvas emphasized their shapes and lines and made them appear abstract. Such daring compositions helped establish O'Keeffe's reputation as an innovative modernist.
+(Enlarging the tiniest details to fill) an entire metre-wide (canvas) emphasized their shapes and lines and made them appear abstract. Such (daring compositions) helped establish O'Keeffe's reputation as an innovative modernist.
+将最微小的细节放大以填满一整块一米宽的画布，强调了它们的形状和线条，并使它们显得抽象。这种大胆的构图帮助确立了欧姬芙作为创新现代主义者的声誉。
 
-In 1929, O'Keeffe made her first extended trip to the state of New Mexico. It was a visit that had a lasting impact on her life, and an immediate effect on her work. Over the next two decades she made almost annual trips to New Mexico, staying up to six months 
-there, painting in relative solitude, then returning to New York each winter to exhibit the new work at Stieglitz's gallery. This pattern continued until she moved permanently to New Mexico in 1949.
+In 1929, O'Keeffe made her first extended trip to the state of New Mexico. It was a visit that had a (lasting impact) on her life, and an (immediate effect) on her work. Over the next two decades she made almost annual trips to New Mexico, staying up to six months 
+there, painting in (relative solitude), then returning to New York each winter to exhibit the new work at Stieglitz's gallery. This pattern continued until she moved permanently to New Mexico in 1949.
+1929年，欧姬芙第一次前往新墨西哥州进行了长时间的旅行。这次访问对她的生活产生了深远的影响，并对她的作品产生了立竿见影的效果。在接下来的二十年里，她几乎每年都会去新墨西哥州旅行，在那里生活长达六个月，
+在相对孤独的环境中作画，然后每到冬天返回纽约，在斯蒂格里茨的画廊展出新作品。这种模式一直持续到1949年她永久搬到新墨西哥州。
 
-There, O'Keeffe found new inspiration: at first, it was the numerous sun-bleached bones she came across in the state's rugged terrain that sparked her imagination. Two of her earliest and most celebrated Southwestern paintings exquisitely reproduce a cow skull's 
-weathered surfaces, jagged edges, and irregular openings. Later, she also explored another variation on this theme in her large series of Pelvis pictures, which focused on the contrasts between convex and concave surfaces, and solid and open spaces.
+There, O'Keeffe found new inspiration: at first, it was the numerous sun-bleached bones she came across in the state's (rugged terrain) that sparked her (imagination). Two of her earliest and most celebrated Southwestern paintings (exquisitely) reproduce a cow (skull)'s 
+weathered surfaces, (jagged) edges, and irregular openings. Later, she also explored another variation on this theme in her large series of (Pelvis) pictures, which focused on the contrasts between convex and concave surfaces, and solid and open spaces.
+在那里，欧姬芙找到了新的灵感：起初，是她在该州崎岖地形中偶遇的众多被阳光晒得发白的骨头，激发了她的想象力。她最早且最著名的两幅西南部画作精美地再现了牛头骨饱经风霜的表面、参差不齐的边缘以及不规则的孔洞。
+后来，她还在她的大型《骨盆》（Pelvis）系列画作中探索了这一主题的另一种变体，该系列专注于凸面与凹面、实体空间与开放空间之间的对比。
 
-However, it was the region's spectacular landscape, with its unusual geological formations, vivid colours, clarity of light, and exotic vegetation, that held the artist's imagination for more than four decades. Often, she painted the rocks, cliffs, and mountains 
-in striking close-up, just as she had done with her botanical subjects.
+However, it was the region's spectacular landscape, with its unusual (geological formation)s, vivid colours, (clarity of light), and (exotic vegetation), that held the artist's imagination for more than four decades. Often, she painted the (rock)s, cliffs, and mountains 
+in (striking) close-up, just as she had done with her botanical subjects.
+然而，是该地区壮丽的风景——其奇特的地质结构、鲜艳的色彩、清澈的光线和异国情调的植被——牢牢抓住了这位艺术家四十多年的想象力。通常，她会以惊人的特写来描绘岩石、悬崖和山脉，就像她对待植物题材时所做的那样。
 
-O'Keeffe eventually owned two homes in New Mexico - the first, her summer retreat at Ghost Ranch, was nestled beneath 200-metre cliffs, while the second, used as her winter residence, was in the small town of Abiquiú. While both locales provided a wealth of
-imagery for her paintings, one feature of the Abiquiú house - the large walled patio with its black door - was particularly inspirational. In more than thirty pictures between 1946 and 1960, she reinvented the patio into an abstract arrangement of geometric shapes.
+O'Keeffe eventually owned two homes in New Mexico - the first, her summer (retreat) at Ghost Ranch, was (nestled) beneath 200-metre cliffs, while the second, used as her winter residence, was in the small town of Abiquiú. While both locales provided (a wealth of)
+imagery for her paintings, one feature of the Abiquiú house - the large walled patio with its black door - was particularly inspirational. In more than thirty pictures between 1946 and 1960, she (reinvent)ed the patio into an abstract arrangement of geometric shapes.
+欧姬芙最终在新墨西哥州拥有了两处住宅——第一处是她在幽灵牧场（Ghost Ranch）的夏日静修处，坐落在200米高的悬崖下；而第二处位于阿比休（Abiquiú）小镇，用作她的冬日居所。虽然这两个地方都为她的画作提供了丰富的意象，
+但阿比休住宅的一个特征——带有黑门的大型围墙天井——尤其具有启发性。在1946年至1960年间的三十多幅画作中，她将天井重新塑造为几何形状的抽象排列。
 
-From the 1950s into the 1970s, O'Keeffe travelled widely, making trips to Asia, the Middle East, and Europe. Flying in planes inspired her last two major series - aerial views of rivers and expansive paintings of the sky viewed from just above clouds. 
-In both series, O'Keeffe increased the size of her canvases, sometimes to mural proportions, reflecting perhaps her newly expanded view of the world. When in 1965 she successfully translated one of her cloud motifs to a monumental canvas measuring 6 metres in 
-length (with the help of assistants), it was an enormous challenge and a special feat for an artist nearing eighty years of age.
+From the 1950s into the 1970s, O'Keeffe travelled widely, making trips to Asia, the Middle East, and Europe. Flying in planes inspired her last two major series - (aerial views) of rivers and expansive paintings of the sky viewed from just above clouds. 
+In both series, O'Keeffe increased the size of her canvases, sometimes to mural proportions, reflecting perhaps her newly expanded view of the world. When in 1965 she successfully translated one of her cloud (motif)s to a (monumental canvas) measuring 6 metres in 
+length (with the help of assistants), it was an enormous challenge and a special (feat) for an artist nearing eighty years of age.
+从1950年代到1970年代，欧姬芙广泛游历，前往亚洲、中东和欧洲旅行。乘飞机飞行激发了她最后两个主要系列的灵感——河流的鸟瞰图以及从云层上方俯瞰的天空的壮阔画作。在这两个系列中，欧姬芙都增大了画布的尺寸，有时甚至达到了壁画的规模，这也许反映了她新开拓的世界观。
+1965年，当她在助手的帮助下，成功地将其中一个云朵图案转化到一块长达6米的巨型画布上时，这对于一位年近八十的艺术家来说是一个巨大的挑战，也是一项特殊的壮举。
 
-The last two decades of the artist's life were relatively unproductive as ill health and blindness hindered her ability to work. O'Keeffe died in 1986 at the age of ninety-eight, but her rich legacy of some 900 paintings has continued to attract subsequent 
+The last two decades of the artist's life were relatively unproductive as ill health and blindness hindered her ability to work. O'Keeffe died in 1986 at the age of ninety-eight, but her rich (legacy) of some 900 paintings has continued to attract subsequent 
 generations of artists and art lovers who derive inspiration from these very American images.
-
+这位艺术家生命的最后二十年相对没有什么产出，因为身体抱恙和失明阻碍了她的工作能力。欧姬芙于1986年去世，享年98岁，但她留下的约900幅画作的丰富遗产继续吸引着后代的艺术家和艺术爱好者，他们从这些极具美国特色的图像中汲取灵感。
 Choose ONE WORD ONLY from the passage for each answer.
 
 The life and work of Georgia O'Keeffe
@@ -1054,14 +1074,13 @@ The life and work of Georgia O'Keeffe
 • produced a series of innovative close-up paintings of 4 flowers
 • went to New Mexico and was initially inspired to paint the many 5bones that could be found there
 • continued to paint various features that together formed the dramatic 6 landscape of New Mexico for over forty years
-• travelled widely by plane in later years, and painted pictures of clouds and 7rivers seen from above
-
+• travelled widely by plane in later years, and painted pictures of clouds and 7rivers seen  
 
 8Georgia O'Keeffe's style was greatly influenced by the changing fashions in art over the seven decades of her career.C B
  TRUE
  FALSE
  NOT GIVEN
-9When O'Keeffe finished high school, she had already made her mind up about the career that she wanted.A
+9When O'Keeffe finished high school, she had already (made her mind up about) the career that she wanted.A
  TRUE
  FALSE
  NOT GIVEN
@@ -1069,7 +1088,7 @@ The life and work of Georgia O'Keeffe
  TRUE
  FALSE
  NOT GIVEN
-11O'Keeffe was the subject of Stieglitz's photographic work for many years.A
+11O'Keeffe was (the subject of) Stieglitz's photographic work for many years.A
  TRUE
  FALSE
  NOT GIVEN
@@ -1077,56 +1096,71 @@ The life and work of Georgia O'Keeffe
  TRUE
  FALSE
  NOT GIVEN
-13O'Keeffe produced a greater quantity of work during the 1950s to 1970s than at any other time in her life.C
+13O'Keeffe produced (a greater quantity of) work during the 1950s to 1970s than at any other time in her life.C
  TRUE
  FALSE
  NOT GIVEN
 ###########################################################################################################################################################################################################################################################################
 ###########################################################################################################################################################################################################################################################################
-Adapting to the effects of climate change
+(Adapting to适应) the effects of climate change
 
 A    All around the world, nations are already preparing for, and adapting to, climate change and its impacts. Even if we stopped all CO2 emissions tomorrow, we would continue to see the impact of the CO2 already released since industrial times,
 with scientists forecasting that global warming would continue for around 40 years. In the meantime, ice caps would continue to melt and sea levels rise. Some countries and regions will suffer more extreme impacts from these changes than others. 
 It's in these places that innovation is thriving.
+在全世界范围内，各国已经开始为气候变化及其影响做准备并逐步适应。即使我们明天停止所有二氧化碳（$CO_2$）的排放，自工业时代以来已经释放的二氧化碳所带来的影响仍将持续，科学家预测全球变暖还将持续大约40年。
+在此期间，冰帽将继续融化，海平面也将继续上升。某些国家和地区遭受这些变化带来的极端影响会比其他地方更为严重。正是这些地方，创新正在蓬勃发展。
 
 B    In Miami Beach, Florida, USA, seawater isn't just breaching the island city's walls, it's seeping up through the ground, so the only way to save the city is to lift it up above sea level. Starting in the lowest and most vulnerable neighbourhoods, 
-roads have been raised by as much as 61 centimetres. The elevation work was carried out as part of Miami Beach's ambitious but much-needed stormwater-management programme. In addition to the road adaptations, the city has set up new pumps that can remove
-up to 75,000 litres of water per minute. In the face of floods, climate-mitigation strategies have often been overlooked, says Yanira Pineda, a senior sustainability coordinator. She knows that they're essential and that the job is far from over. 'We know 
+(roads have been raised by as much as 61 centimetres). The elevation work was carried out as part of Miami Beach's ambitious but much-needed stormwater-management programme. In addition to the (road adaptations), the city has (set up) new pumps that can remove
+up to 75,000 litres of water per minute. In the face of floods, climate-mitigation strategies have often been overlooked, says Yanira Pineda, a senior sustainability coordinator. She knows that they're essential and that the job is (far from over). 'We know 
 that in 20, 30, 40 years, we'll need to go back in there and adjust to the changing environment,' she says.
+在美国佛罗里达州迈阿密海滩，海水不仅突破了这座岛屿城市的防波堤，还在从地下渗透出来，因此拯救这座城市的唯一方法就是将其抬高到海平面以上。从地势最低、最脆弱的社区开始，道路已经被抬高了多达61厘米。这项抬高工程是作为迈阿密海滩雄心勃勃但又迫切需要的雨水管理计划的一部分而开展的。
+除了道路改造之外，该市还安装了新型水泵，每分钟可抽排多达75,000升的水。高级可持续发展协调员亚妮拉·皮内达（Yanira Pineda）表示，面对洪水，气候缓解策略常常被忽视。她深知这些策略至关重要，而且这项工作远未结束。她说：“我们知道，在20年、30年、40年后，我们还需要回到那里，去适应不断变化的环境。”
 
 C    Seawalls are a staple strategy for many coastal communities, but on the soft, muddy northern shores of Java, Indonesia, they frequently collapse, further exacerbating coastal erosion. There have been many attempts to restore the island's coastal mangroves: 
 ecosystems of trees and shrubs that help defend coastal areas by trapping sediment in their net-like root systems, elevating the sea bed and dampening the energy of waves and tidal currents. But Susanna Tol of the not-for-profit organisation Wetlands International 
-says that, while hugely popular, the majority of mangrove-planting projects fail. So, Wetlands International started out with a different approach, building semi-permeable dams, made from bamboo poles and brushwood, to mimic the role of mangrove roots and create
-favourable conditions for mangroves to grow back naturally. The programme has seen moderate success, mainly in areas with less subsidence. 'Unfortunately, traditional infrastructure is often single-solution focused,' says Tol. 'For long-term success, it's critical
-that we transition towards multifunctional approaches that embed natural processes and that engage and benefit communities and local decision-makers.'
+says that, while hugely popular, (the majority of) mangrove-planting projects fail. So, Wetlands International (started out) with a different approach, building semi-permeable dams, made from bamboo poles and brushwood, to mimic the role of mangrove roots and create
+(favourable conditions) for mangroves to (grow back) naturally. The programme has seen (moderate success), mainly in areas with less subsidence. 'Unfortunately, traditional infrastructure is often single-solution focused,' says Tol. 'For long-term success, it's critical
+that we (transition towards multifunctional approaches) that embed natural processes and that engage and benefit communities and local decision-makers.'
+防波堤是许多沿海社区的主要应对策略，但在印度尼西亚爪哇岛柔软泥泞的北部海岸，防波堤经常坍塌，进一步加剧了海岸侵蚀。人们曾多次尝试恢复该岛的沿海红树林：红树林是由树木和灌木组成的生态系统，它们通过网状的根系拦截沉积物、抬高海床并减弱海浪和潮汐流的能量，从而帮助保护沿海地区。
+但非营利组织“国际湿地”（Wetlands International）的苏珊娜·托尔（Susanna Tol）表示，尽管红树林种植项目大受欢迎，但其中绝大多数都失败了。因此，国际湿地组织另辟蹊径，用竹竿和碎木搭建了半渗透堤坝，以模拟红树林根系的作用，为红树林的自然再生创造有利条件。该计划取得了初步成功，
+主要是在地面沉降较轻的地区。托尔说：“不幸的是，传统的基础设施往往只专注于单一的解决方案。为了获得长期的成功，至关重要的一步是向多功能方法转变，这些方法需要融入自然过程，并让社区和地方决策者参与进来并从中受益。”
 
 D    As the floodwaters rose in the rice fields of the Mekong Delta in September 2018, four small houses rose with them. Homes in this part of Vietnam are traditionally built on stilts but these ones had been built to float. The modifications were made by the 
 Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006. 'When I started this,' explains founder Elizabeth English, 'climate change was not on the tip of everybody's tongue, but this 
 technology is becoming necessary in places that didn't previously need it.' It's much cheaper than permanently elevating houses, English explains - about a third of what it would cost to completely replace a building's foundations. It also avoids the problem 
 of taller houses being at greater risk from wind damage. Another plus comes from the fact that amphibious structures can be sensitively adapted to meet cultural needs and match the kind of houses that are already common in a community.
+2018年9月，随着湄公河三角洲稻田中的洪水上涨，四座小屋也随之升起。越南这一地区的房屋传统上是建在桩柱（吊脚楼）上的，但这几座房屋被改造成了可以漂浮的样式。这些改造是由非营利组织“漂浮基金会项目”（Buoyant Foundation Project）完成的，该组织自2006年以来一直致力于研究和改造两栖房屋。
+创始人伊丽莎白·英格利希（Elizabeth English）解释说：“当我开始做这个项目时，气候变化还没有成为人尽皆知的话题，但现在这项技术在以前不需要它的地方正变得必不可少。”英格利希解释道，这比永久抬高房屋要便宜得多——大约只需彻底更换建筑物地基费用的三分之一。它还避免了房屋过高从而面临更大风灾风险的问题。
+另一个优点是，两栖结构可以灵活调整以满足文化需求，并与社区中已经普遍存在的房屋类型相匹配。
 
 E    Bangladesh is especially vulnerable to climate change. Most of the country is less than a metre above sea level and 80 per cent of its land lies on floodplains. 'Almost 35 million people living on the coastal belt of Bangladesh are currently affected by 
 soil and water salinity,' says Raisa Chowdhury of the international development organisation ICCO Cooperation. Rather than fighting against it, one project is helping communities adapt to salt-affected soils. ICCO Cooperation has been working with 10,000 
 farmers in Bangladesh to start cultivating naturally salt-tolerant crops in the region. Certain varieties of carrot, potato, kohlrabi, cabbage and beetroot have been found to be better suited to salty soil than the rice and wheat that is typically grown 
 there. Chowdhury says that the results are very visible, comparing a barren plot of land to the 'beautiful, lush green vegetable garden' sitting beside it, in which he and his team have been working with the farmers. Since the project began, farmers trained
 in saline agriculture have reported increases of two to three more harvests per year.
+孟加拉国特别容易受到气候变化的影响。该国大部分国土海拔不足一米，80%的土地位于洪泛区。国际发展组织“ICCO合作组织”的赖萨·乔杜里（Raisa Chowdhury）表示：“目前，生活在孟加拉国沿海地带的近3500万人正受到土壤和水质盐碱化的影响。”一个项目并没有盲目对抗这一现状，而是正在帮助社区适应受盐碱化影响的土壤。
+ICCO合作组织一直与孟加拉国的10,000名农民合作，开始在该地区种植天然耐盐作物。人们发现，某些品种的胡萝卜、土豆、苤蓝（大头菜）、卷心菜和甜菜根比当地通常种植的水稻和小麦更适合盐碱化土壤。乔杜里说，其成果是清晰可见的，他将一片荒芜的土地与旁边他和团队与农民共同经营的“美丽、郁郁葱葱的绿色菜园”进行了对比。
+自该项目启动以来，接受过盐碱农业培训的农民报告称，每年可多收获两到三次。
 
 F    Greg Spotts from Los Angeles (LA) in the USA is chief sustainability officer of the city's street services department. He leads the Cool Streets LA programme, a series of pilot projects, which include the planting of trees and the installation of a 
 'cool pavement' system, designed to help reach the city's goal of bringing down its average temperature by 1.5℃. 'Urban cooling is literally a matter of life and death for our future in LA,' says Spotts. Using a Geographic Information System data mapping 
 tool, the programme identified streets with low tree canopy cover in three of the city's neighbourhoods and covered them with a light-grey, light-reflecting coating, which had already been shown to lower road surface temperature in Los Angeles by 6℃. 
 Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station.
-
+来自美国洛杉矶（LA）的格雷格·斯波茨（Greg Spotts）是该市街道服务部门的高级可持续发展官。他领导了“凉爽街道洛杉矶”（Cool Streets LA）计划，这是一系列的试点项目，其中包括种植树木和安装“凉爽路面”系统，旨在帮助实现该市将平均温度降低 1.5℃ 的目标。
+斯波茨说：“对于我们在洛杉矶的未来而言，城市降温确实是一件生死攸关的大事。”该计划利用地理信息系统（GIS）数据地图绘制工具，识别出了该市三个社区中树冠覆盖率较低的街道，并在其表面涂上了一层浅灰色、具有反光功能的涂层，该涂层此前已被证实能让洛杉矶的路面温度降低 6℃。斯波茨表示，
+在圣费尔南多谷温内特卡社区的一条此类街道，现在从国际空间站拍摄的热成像图上看去，呈现为一个苍白的新月形，成为在一片红色热像中唯一的凉爽区域。
 Reading Passage 2 has six paragraphs, A-F.
 Which paragraph contains the following information?
-1 how a type of plant functions as a natural protection for coastlines C
+1 how a type of plant (functions as) a natural protection for coastlines C
 2 a prediction about how long it could take to stop noticing the effects of climate changeB A
-3 a reference to the fact that a solution is particularly cost-effectiveF D
-4 a mention of a technology used to locate areas most in need of intervention D F
+3 a reference to the fact that a solution is particularly cost-effective划算的F D
+4 a mention of a technology used to locate areas most (in need of) intervention D F
 
 18 The stormwater-management programme in Miami Beach has involved the installation of efficient pumps18.
-19 The construction of 19dams was the first stage of a project to ensure the success of mangroves in Indonesia.
+19 The construction of 19(dam)s was the first stage of a project to ensure the success of mangroves in Indonesia.
 20 As a response to rising floodwaters in the Mekong Delta, a not-for-profit organisation has been building houses that can 20float.
-21 Rising sea levels in Bangladesh have made it necessary to introduce various 21crops that are suitable for areas of high salt content.
+21 Rising sea levels in Bangladesh have made it necessary to introduce various 21(crop)s that are suitable for areas of high salt content.
 22 A project in LA has increased the number of 22trees on the city's streets. 
 
 Look at the following statements (Questions 23-26) and the list of people below. 
