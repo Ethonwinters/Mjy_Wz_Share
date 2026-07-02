@@ -1127,26 +1127,26 @@ that we (transition towards multifunctional approaches) that embed natural proce
 主要是在地面沉降较轻的地区。托尔说：“不幸的是，传统的基础设施往往只专注于单一的解决方案。为了获得长期的成功，至关重要的一步是向多功能方法转变，这些方法需要融入自然过程，并让社区和地方决策者参与进来并从中受益。”
 
 D    As the floodwaters rose in the rice fields of the Mekong Delta in September 2018, four small houses rose with them. Homes in this part of Vietnam are traditionally built on stilts but these ones had been built to float. The modifications were made by the 
-Buoyant Foundation Project, a not-for-profit organisation that has been researching and retrofitting amphibious houses since 2006. 'When I started this,' explains founder Elizabeth English, 'climate change was not on the tip of everybody's tongue, but this 
-technology is becoming necessary in places that didn't previously need it.' It's much cheaper than permanently elevating houses, English explains - about a third of what it would cost to completely replace a building's foundations. It also avoids the problem 
-of taller houses being at greater risk from wind damage. Another plus comes from the fact that amphibious structures can be sensitively adapted to meet cultural needs and match the kind of houses that are already common in a community.
+Buoyant Foundation Project, a not-for-profit organisation that has been researching and (retrofitting) amphibious(/æmˈfɪbiəs/) houses since 2006. 'When I started this,' explains founder Elizabeth English, 'climate change was not (on the tip of everybody's tongue), but this 
+technology is becoming necessary in places that didn't previously need it.' It's much cheaper than permanently elevating houses, English explains - about (a third of) what it would cost to completely replace a building's foundations. It also avoids the problem 
+of taller houses being at greater risk from wind damage. Another plus (comes from the fact源于这样一个事实 that) amphibious structures can be sensitively adapted to meet cultural needs and match the kind of houses that are already common in a community.
 2018年9月，随着湄公河三角洲稻田中的洪水上涨，四座小屋也随之升起。越南这一地区的房屋传统上是建在桩柱（吊脚楼）上的，但这几座房屋被改造成了可以漂浮的样式。这些改造是由非营利组织“漂浮基金会项目”（Buoyant Foundation Project）完成的，该组织自2006年以来一直致力于研究和改造两栖房屋。
 创始人伊丽莎白·英格利希（Elizabeth English）解释说：“当我开始做这个项目时，气候变化还没有成为人尽皆知的话题，但现在这项技术在以前不需要它的地方正变得必不可少。”英格利希解释道，这比永久抬高房屋要便宜得多——大约只需彻底更换建筑物地基费用的三分之一。它还避免了房屋过高从而面临更大风灾风险的问题。
 另一个优点是，两栖结构可以灵活调整以满足文化需求，并与社区中已经普遍存在的房屋类型相匹配。
 
-E    Bangladesh is especially vulnerable to climate change. Most of the country is less than a metre above sea level and 80 per cent of its land lies on floodplains. 'Almost 35 million people living on the coastal belt of Bangladesh are currently affected by 
-soil and water salinity,' says Raisa Chowdhury of the international development organisation ICCO Cooperation. Rather than fighting against it, one project is helping communities adapt to salt-affected soils. ICCO Cooperation has been working with 10,000 
+E    Bangladesh is especially vulnerable to climate change. Most of the country is (less than) a metre above sea level and 80 per cent of its land lies on floodplains. 'Almost 35 million people living on the (coastal belt) of Bangladesh are currently affected by 
+soil and water salinity,' says Raisa Chowdhury of the international development organisation ICCO Cooperation. Rather than (fighting against) it, one project is helping communities adapt to salt-affected soils. ICCO Cooperation has been working with 10,000 
 farmers in Bangladesh to start cultivating naturally salt-tolerant crops in the region. Certain varieties of carrot, potato, kohlrabi, cabbage and beetroot have been found to be better suited to salty soil than the rice and wheat that is typically grown 
-there. Chowdhury says that the results are very visible, comparing a barren plot of land to the 'beautiful, lush green vegetable garden' sitting beside it, in which he and his team have been working with the farmers. Since the project began, farmers trained
+there. Chowdhury says that the results are very visible, comparing (a barren plot of land) to the 'beautiful, lush green vegetable garden' sitting beside it, in which he and his team have been working with the farmers. Since the project began, farmers trained
 in saline agriculture have reported increases of two to three more harvests per year.
 孟加拉国特别容易受到气候变化的影响。该国大部分国土海拔不足一米，80%的土地位于洪泛区。国际发展组织“ICCO合作组织”的赖萨·乔杜里（Raisa Chowdhury）表示：“目前，生活在孟加拉国沿海地带的近3500万人正受到土壤和水质盐碱化的影响。”一个项目并没有盲目对抗这一现状，而是正在帮助社区适应受盐碱化影响的土壤。
 ICCO合作组织一直与孟加拉国的10,000名农民合作，开始在该地区种植天然耐盐作物。人们发现，某些品种的胡萝卜、土豆、苤蓝（大头菜）、卷心菜和甜菜根比当地通常种植的水稻和小麦更适合盐碱化土壤。乔杜里说，其成果是清晰可见的，他将一片荒芜的土地与旁边他和团队与农民共同经营的“美丽、郁郁葱葱的绿色菜园”进行了对比。
 自该项目启动以来，接受过盐碱农业培训的农民报告称，每年可多收获两到三次。
 
-F    Greg Spotts from Los Angeles (LA) in the USA is chief sustainability officer of the city's street services department. He leads the Cool Streets LA programme, a series of pilot projects, which include the planting of trees and the installation of a 
-'cool pavement' system, designed to help reach the city's goal of bringing down its average temperature by 1.5℃. 'Urban cooling is literally a matter of life and death for our future in LA,' says Spotts. Using a Geographic Information System data mapping 
-tool, the programme identified streets with low tree canopy cover in three of the city's neighbourhoods and covered them with a light-grey, light-reflecting coating, which had already been shown to lower road surface temperature in Los Angeles by 6℃. 
-Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale crescent, the only cool spot on an otherwise red thermal image, from the International Space Station.
+F    Greg Spotts from Los Angeles (LA) in the USA is chief sustainability officer of the city's street services department. He leads the Cool Streets LA programme, a series of (pilot projects), which include the planting of trees and the installation of a 
+'cool pavement' system, designed to help reach the city's goal of bringing down its average temperature by 1.5℃. 'Urban cooling is (literally a matter of) (life and death) for our future in LA,' says Spotts. Using a Geographic Information System data mapping 
+tool, the programme identified streets with low tree canopy cover in three of the city's neighbourhoods and covered them with a light-grey, light-reflecting (coating), which had already been shown to lower road surface temperature in Los Angeles by 6℃. 
+Spotts says one of these streets, in the Winnetka neighbourhood of San Fernando Valley, can now be seen as a (pale crescent), the only cool spot on an otherwise red thermal image, from the International Space Station.
 来自美国洛杉矶（LA）的格雷格·斯波茨（Greg Spotts）是该市街道服务部门的高级可持续发展官。他领导了“凉爽街道洛杉矶”（Cool Streets LA）计划，这是一系列的试点项目，其中包括种植树木和安装“凉爽路面”系统，旨在帮助实现该市将平均温度降低 1.5℃ 的目标。
 斯波茨说：“对于我们在洛杉矶的未来而言，城市降温确实是一件生死攸关的大事。”该计划利用地理信息系统（GIS）数据地图绘制工具，识别出了该市三个社区中树冠覆盖率较低的街道，并在其表面涂上了一层浅灰色、具有反光功能的涂层，该涂层此前已被证实能让洛杉矶的路面温度降低 6℃。斯波茨表示，
 在圣费尔南多谷温内特卡社区的一条此类街道，现在从国际空间站拍摄的热成像图上看去，呈现为一个苍白的新月形，成为在一片红色热像中唯一的凉爽区域。
@@ -1186,33 +1186,35 @@ A    For thousands of years, livestock guard dogs worked alongside shepherds to 
 most guard dogs lost their jobs. In recent years, however, as increased efforts have been made to protect wild animals, predators have become more widespread again. As a result, farmers once more need to protect their livestock, and guard dogs are enjoying an 
 unexpected revival. 
 
-B    Today there are around 50 breeds of guard dogs on duty in various parts of the world. These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog's family. The dogs will place 
-themselves between the livestock and any threat, barking loudly. If necessary, they will chase away predators, but often their mere presence is sufficient. 'Their initial training is to make them understand that livestock is going to be their life,
-' says 😀Dan Macon, a shepherd with three guard dogs. 'A fluffy white puppy is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.'
+B    Today there are around (50 breeds of) guard dogs (on duty) in various parts of the world. These dogs are raised from an early age with the animals they will be watching and eventually these animals become the dog's family. The dogs will place 
+themselves between the livestock and any threat, barking loudly. If necessary, they will (chase away) predators, but often their (mere presence) is sufficient. 'Their initial training is to make them understand that (livestock is going to be their life),
+' says 😀Dan Macon, a shepherd with three guard dogs. 'A (fluffy white puppy) is fun to be around, but too much human affection makes it a great dog for guarding the front porch, rather than a great livestock guard dog.'
 
 C    The evidence indicates that guard dogs are highly effective. For example, in Portugal, biologist 😀Silvia Ribeiro has found that more than 90 percent of the farmers participating in a programme to train and use guard dogs to protect their herds 
-against attack from wolves rate the performance of the dogs as very good or excellent. In a study carried out in Australia by 😀Linda van Bommel and 😀Chris Johnson at the University of Tasmania, more than 65 percent of herders reported that predation
-stopped completely after they got the dogs, and almost all the rest saw a decrease in attacks. 'If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they 
+against attack from wolves (rate the performance of) the dogs as very good or excellent. In a study carried out in Australia by 😀Linda van Bommel and 😀Chris Johnson at the University of Tasmania, more than 65 percent of herders reported that (predation)
+stopped completely after they got the dogs, and almost (all the rest) saw a decrease in attacks. 'If they are managed and used properly, livestock guard dogs are the most efficient control method that we have in terms of the amount of livestock that they 
 save from predation,' says 😀van Bommel.
 
 D    But today's guard dogs also have a new role - to help preserve the predators. It is hoped that reductions in livestock losses can make farmers more tolerant of predators and less likely to kill them. In Namibia, more than 90 percent of 😀cheetahs😀 live
 outside protected areas, close to humans raising livestock. As a result, the cheetahs are often held responsible for animal losses, and large numbers have been killed by farmers. When guard dogs were introduced, more than 90 per cent of farmers reported a
-dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. 😀Julie Young, at Utah State University in the US, believes this result applies widely. 'There is common ground from the livestock perspective and from 
-the conservation perspective,' she says. 'If ranchers don't have a dead cow, they will not make a call to apply for a permit to kill a wolf.'
+dramatic reduction in livestock losses, and said that as a result they were less likely to kill predators. 😀Julie Young, at Utah State University in the US, believes this result applies widely. 'There is (common ground) from the livestock perspective and from 
+the conservation perspective,' she says. 'If ranchers don't have a dead cow, they will not make a call to (apply for a permit) to kill a wolf.'
 
 E    Looking at all the published evidence, 😀Bethany Smith at Nottingham Trent University in the UK found that up to 88 per cent of farmers said they no longer killed predators after using dogs - but warned that such self-reported results must be taken with
-a pinch of salt. What's more, it is possible that livestock guard dogs merely displace predators to unprotected neighbouring properties, where their fate isn't recorded. 'In some regions, we work with almost every farmer, but in others only one or two have dogs,'
-says 😀Ribeiro. 'If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use poison and kill an entire pack of wolves.'
+a pinch of salt. (What's more), it is possible that livestock guard dogs (merely displace predators) to unprotected neighbouring properties, where their fate isn't recorded. 'In some regions, we work with almost every farmer, but in others only one or two have dogs,'
+says 😀Ribeiro. 'If we are not working with everybody, we are transferring the wolf pressure to the neighbour's herd and he can use (poison) and kill an entire pack of wolves.'
 
-F    Another concern is whether there may be unintended ecological effects of using guard dogs. Studies suggest that reducing deaths of one type of predator may have a negative impact on other species. The extent of this problem isn't known, but the consequences
-are clear in Namibia. Cheetahs aren't the only species that cause sheep and goat losses there: other predators also attack livestock. In 2015, researchers reported that in spite of the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed
-by dogs and people actually increased. Guard dogs have other ecological impacts too. They have been found to spread diseases to wild animals, including endangered Ethiopian wolves. They may also compete with other carnivores for food. And by creating a 'landscape of fear', 
+F    Another concern is whether there may be (unintended) ecological effects of using guard dogs. Studies suggest that reducing deaths of one type of predator may have a negative impact on other species. (The extent of this problem isn't known), but the consequences
+are clear in Namibia. Cheetahs aren't the only species that cause sheep and goat losses there: other predators also attack livestock. In 2015, researchers reported that (in spite of) the impact farmers obtaining guard dogs had on cheetahs, the number of jackals killed
+by dogs and people actually increased. Guard dogs have other ecological impacts too. They have been found to spread diseases to wild animals, including (endangered) Ethiopian wolves. They may also (compete with other carnivores) for food. And by creating a 'landscape of fear', 
 their mere presence can influence the behaviour of prey animals.
-
+另一个令人担忧的问题是，使用守护犬是否会产生意想不到的生态影响。研究表明，减少某一种掠食者的死亡可能会对其他物种产生负面影响。这一问题的严重程度尚不清楚，但在纳米比亚，其后果是显而易见的。在当地，猎豹并非唯一导致绵羊和山羊损失的物种：其他掠食者也会袭击牲畜。2015年，研究人员报告称，
+尽管农民获得守护犬对猎豹产生了积极影响，但被狗和人类杀死的胡狼数量实际上增加了。守护犬还有其他的生态影响。人们发现它们会向野生动物传播疾病，包括濒危的埃塞俄比亚狼。它们还可能与其他肉食动物竞争食物。并且，通过创造一种“恐惧景观”，它们仅仅是存在就能影响猎物动物的行为。
 G    The evidence so far, however, indicates that these consequences aren't always negative. Guard dogs can deliver unexpected benefits by protecting vulnerable wildlife from predators. For example, their presence has been found to protect birds which build their nests 
-on the ground in fields, where foxes would normally raid them. Indeed, Australian researchers are now using dogs to enhance biodiversity and create refuges for species threatened by predation. So if we can get this right, there may be a bright future for guard dogs in
-promoting harmonious coexistence between humans and wildlife.
-
+on the ground in fields, where foxes would normally (raid) them. Indeed, Australian researchers are now using dogs to enhance (biodiversity) and create (refuge)s for species threatened by predation. So if we can get this right, there may be a (bright future) for guard dogs in
+promoting (harmonious coexistence) between humans and wildlife.
+然而，迄今为止的证据表明，这些后果并不总是否面的。守护犬可以通过保护脆弱的野生动物免受掠食者侵害，带来意想不到的好处。例如，人们发现它们的存在可以保护那些在农田地面上筑巢的鸟类，否则狐狸通常会袭击这些鸟巢。事实上，澳大利亚的研究人员现在正利用狗来增强生物多样性，
+并为受到捕食威胁的物种创造避难所。因此，如果我们能正确处理好这一点，守护犬在促进人类与野生动物和谐共处方面可能会有一个光明的未来。
 Reading Passage 3 has seven paragraphs, A-G.
 
 Which paragraph contains the following information?
