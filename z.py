@@ -1,42 +1,34 @@
+import getpass
 import os
-import time
+
 from openai import OpenAI
 
-# 检查环境变量是否已设置
-print("API Key 已设置：", bool(os.getenv("OPENAI_API_KEY")))
-print("Base URL：", os.getenv("OPENAI_BASE_URL"))
 
-# 创建客户端
-client = OpenAI(
-    api_key=os.environ["OPENAI_API_KEY"],
-    base_url=os.environ["OPENAI_BASE_URL"],
-    timeout=60.0,
+def _set_env(key: str) -> None:
+    if key not in os.environ:
+        os.environ[key] = getpass.getpass(f"{key}: ")
+
+
+_set_env("OPENAI_API_KEY")
+
+os.environ["OPENAI_BASE_URL"] = (
+    "https://eisapi.byd.com/open-api/1.0/llm/v1/qwen38-27b-fp8"
 )
 
-# 发送测试问题
-start_time = time.perf_counter()
+client = OpenAI()
 
 response = client.chat.completions.create(
     model="qwen38-27b-fp8",
     messages=[
         {
             "role": "system",
-            "content": "你是一名动力总成技术专家。"
+            "content": "你是一个专业、严谨且友好的中文助手。请使用简洁、通俗易懂的语言回答问题。",
         },
         {
             "role": "user",
-            "content": "请用100字解释什么是发动机爆震。"
-        }
+            "content": "请用通俗易懂的语言解释为什么天空是蓝色的。",
+        },
     ],
-    temperature=0.1,
-    max_tokens=512,
 )
 
-elapsed = time.perf_counter() - start_time
-
-print("模型回答：")
 print(response.choices[0].message.content)
-
-print("\n模型名称：", response.model)
-print("响应时间：", round(elapsed, 2), "秒")
-print("Token 用量：", response.usage)
